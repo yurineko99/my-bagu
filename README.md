@@ -36,5 +36,6 @@
 | * 10 | [#2384](https://github.com/pyro-ppl/pyro/pull/2384) | bug、Pending review | closed | [content]() | log_abs_det_jacobian必要に応じて再計算されます | | dimension/boundary | [Test]() |  26 Mar 2020 | committed on 27 Mar 2020 |
 | * 11 | [#2699](https://github.com/pyro-ppl/pyro/issues/2699) | bug、jit | closed | [content]() | JitTraceEnum_ELBO が nvrtc: エラー: pytorch 1.7.0 の RTX 3090 で --gpu-architecture (-arch) の無効な値 #2699で失敗する | | dimension/boundary | [Test]() |  19 Nov 2020 | committed on 30 Nov 2020 |
 | * 12 | [#2710](https://github.com/pyro-ppl/pyro/pull/2710) | bug、Pending review | closed | [content]() | マッチング分布でベーテ近似を安定化 | | dimension/boundary | [Test]() |  8 Dec 2020 | committed on 6 Aug 2021 |
+| * 13 | [#2814](https://github.com/pyro-ppl/pyro/pull/2814) | bug、Pending review | closed | [content]() | マッチング分布でベーテ近似を安定化 | | dimension/boundary | [Test]() |  8 Dec 2020 | committed on 6 Aug 2021 |
 
 

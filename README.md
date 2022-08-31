@@ -25,4 +25,5 @@
 | Bug Id | Issue No | Tag | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#1936](https://github.com/stan-dev/stan/issues/1936#issue-161614691) | bug | [Fixed](https://github.com/stan-dev/stan/commit/2a769a131b376c7b7c0464470346a55273d1dca0) | []() | Closed | 0.11.0→master | interface | [Test]() |  22 Jun 2016 | committed on 27 Jun 2016 |
+| * 2 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | [Fixed](https://github.com/stan-dev/stan/commit/2a769a131b376c7b7c0464470346a55273d1dca0) | []() | Closed |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |
 

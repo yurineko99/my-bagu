@@ -33,5 +33,6 @@
 | * 7 | [#2122](https://github.com/pyro-ppl/pyro/issues/2122) | bug | closed | [content]() | 非スカラーサイトの予測クラスが失敗する | | dimension/boundary | [Test]() |  6 Nov 2019 | committed on 7 Nov 2019 |
 | * 8 | [#2270](https://github.com/pyro-ppl/pyro/issues/2270) | bug | closed | [content]() | デルタ分布がコンポーネントとして使用されている場合、MaskedMixture 分布は正しく機能しません | | dimension/boundary | [Test]() |  20 jan 2020 | committed on 23 jan 2020 |
 | * 9 | [#2366](https://github.com/pyro-ppl/pyro/issues/2366) | bug | closed | [content]() | [バグ] pyro.distributions.InverseGamma.sample が GPU で動作しない | | dimension/boundary | [Test]() |  14 Mar 2020 | committed on 14 Mar 2020 |
+| * 10 | [#2384](https://github.com/pyro-ppl/pyro/pull/2384) | bug、Pending review | closed | [content]() | log_abs_det_jacobian必要に応じて再計算されます | | dimension/boundary | [Test]() |  26 Mar 2020 | committed on 27 Mar 2020 |
 
 

@@ -37,5 +37,6 @@
 | * 11 | [#2699](https://github.com/pyro-ppl/pyro/issues/2699) | bug、jit | closed | [content]() | JitTraceEnum_ELBO が nvrtc: エラー: pytorch 1.7.0 の RTX 3090 で --gpu-architecture (-arch) の無効な値 #2699で失敗する | | dimension/boundary | [Test]() |  19 Nov 2020 | committed on 30 Nov 2020 |
 | * 12 | [#2710](https://github.com/pyro-ppl/pyro/pull/2710) | bug、Pending review | closed | [content]() | マッチング分布でベーテ近似を安定化 | | dimension/boundary | [Test]() |  8 Dec 2020 | committed on 6 Aug 2021 |
 | * 13 | [#2814](https://github.com/pyro-ppl/pyro/pull/2814) | bug、Pending review、ease of use | closed | [content]() | callable optim configs のパラメーター名を簡素化します。 | | dimension/boundary | [Test]() |  22 Apr 2021 | committed on 23 Apr 2021 |
+| * 14 | [#2815](https://github.com/pyro-ppl/pyro/issues/2815) | bug | closed | [content]() | イントロ SVI の例にはバグ #2815があります | | dimension/boundary | [Test]() |  24 Apr 2021 | committed on 25 Apr 2021 |
 
 

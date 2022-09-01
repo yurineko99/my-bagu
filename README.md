@@ -38,5 +38,6 @@
 | * 12 | [#2710](https://github.com/pyro-ppl/pyro/pull/2710) | bug、Pending review | closed | [content]() | マッチング分布でベーテ近似を安定化 | | dimension/boundary | [Test]() |  8 Dec 2020 | committed on 6 Aug 2021 |
 | * 13 | [#2814](https://github.com/pyro-ppl/pyro/pull/2814) | bug、Pending review、ease of use | closed | [content]() | callable optim configs のパラメーター名を簡素化します。 | | dimension/boundary | [Test]() |  22 Apr 2021 | committed on 23 Apr 2021 |
 | * 14 | [#2815](https://github.com/pyro-ppl/pyro/issues/2815) | bug | closed | [content]() | イントロ SVI の例にはバグ #2815があります | | dimension/boundary | [Test]() |  24 Apr 2021 | committed on 25 Apr 2021 |
+| * 15 | [#2827](https://github.com/pyro-ppl/pyro/issues/2815) | bug | closed | [content]() | [バグ] パラメータが完全に使用されていない場合の CSIS エラー  | | dimension/boundary | [Test]() |  29 Apr 2021 | committed on 29 Apr 2021 |
 
 

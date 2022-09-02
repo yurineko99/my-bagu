@@ -40,5 +40,6 @@
 | * 14 | [#2815](https://github.com/pyro-ppl/pyro/issues/2815) | bug | closed | [content]() | イントロ SVI の例にはバグ #2815があります | | dimension/boundary | [Test]() |  24 Apr 2021 | committed on 25 Apr 2021 |
 | * 15 | [#2827](https://github.com/pyro-ppl/pyro/issues/2815) | bug | closed | [content]() | [バグ] パラメータが完全に使用されていない場合の CSIS エラー  | | dimension/boundary | [Test]() |  29 Apr 2021 | committed on 29 Apr 2021 |
 | * 16 | [#2840](https://github.com/pyro-ppl/pyro/pull/2840) | bug、Pending review | closed | [content]() | latex pdf ドキュメントの数式を修正しました。  | | dimension/boundary | [Test]() |  13 May 2021 | committed on 17 May 2021 |
+| * 17 | [#1988](https://github.com/pyro-ppl/pyro/pull/1988) | bug | closed | [content]() | 損失をマイナスにする  | | General numerical | [Test]() |  1 Aug 2019 | committed on 10 Aug 2019 |
 
 

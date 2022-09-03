@@ -44,6 +44,7 @@
 | * 18 | [#2724](https://github.com/pyro-ppl/pyro/issues/2724) | bug | closed | [content]() | contrib.funsor.infer.TraceEnum_ELBO は、特定のガイド列挙モデルに対して不正確な elbo を計算できます  | | General numerical | [Test]() |  26 Dec 2020 | committed on 11 Mar 2021 |
 |* 19 | [#2764](https://github.com/pyro-ppl/pyro/pull/2764) | bug、Pending review | closed | [content]() | MaskMessenger の bool と Tensor のビットごとの & を修正 | | Language/translation | [Test]() |  11 Feb 2021 | committed on 11 Feb 2021 |
 |* 20 | [#2886](https://github.com/pyro-ppl/pyro/issues/2886) | bug | closed | [content]() | RuntimeError: tensordot への入力がサポートされていません。dims=0 を取得しました | | Language/translation | [Test]() |  27 Jun 2021 | committed on 2 Jul 2021 |
-|* 21 | [#2688](https://github.com/pyro-ppl/pyro/issues/2688) | bug、documentation | closed | [content]() | [Doc] AutoIAFNormal と affine_autoregressive の間のパラメーター署名の不一致 | | documentation | [Test]() |  26 Dec 2020 | committed on 11 Mar 2021 |
+|* 21 | [#2971](https://github.com/pyro-ppl/pyro/issues/2971) | bug | closed | [content]() | RuntimeError: テンソル a (4928) のサイズは、非シングルトン次元 3 でテンソル b (4940) のサイズと一致する必要があります | | Language/translation | [Test]() |  20 Nov 2021 | committed on 25 Nov 2021 |
+|* 22 | [#2688](https://github.com/pyro-ppl/pyro/issues/2688) | bug、documentation | closed | [content]() | [Doc] AutoIAFNormal と affine_autoregressive の間のパラメーター署名の不一致 | | documentation | [Test]() |  26 Dec 2020 | committed on 11 Mar 2021 |
 
 

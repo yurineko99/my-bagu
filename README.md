@@ -42,5 +42,7 @@
 | * 16 | [#2840](https://github.com/pyro-ppl/pyro/pull/2840) | bug、Pending review | closed | [content]() | latex pdf ドキュメントの数式を修正しました。  | | dimension/boundary | [Test]() |  13 May 2021 | committed on 17 May 2021 |
 | * 17 | [#1988](https://github.com/pyro-ppl/pyro/pull/1988) | bug | closed | [content]() | 損失をマイナスにする  | | General numerical | [Test]() |  1 Aug 2019 | committed on 10 Aug 2019 |
 | * 18 | [#2724](https://github.com/pyro-ppl/pyro/issues/2724) | bug | closed | [content]() | contrib.funsor.infer.TraceEnum_ELBO は、特定のガイド列挙モデルに対して不正確な elbo を計算できます  | | General numerical | [Test]() |  26 Dec 2020 | committed on 11 Mar 2021 |
+|* 19 | [#2764](https://github.com/pyro-ppl/pyro/pull/2764) | bug、Pending review | closed | [content]() | MaskMessenger の bool と Tensor のビットごとの & を修正 | | Language/translation | [Test]() |  11 Feb 2021 | committed on 11 Feb 2021 |
+ |* 20 | [#2688](https://github.com/pyro-ppl/pyro/issues/2688) | bug、documentation | closed | [content]() | [Doc] AutoIAFNormal と affine_autoregressive の間のパラメーター署名の不一致 | | documentation | [Test]() |  26 Dec 2020 | committed on 11 Mar 2021 |
 
 

@@ -56,6 +56,7 @@
 | * 30 | [#3014](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  18 Feb 2022 | committed on 30 Aug 2022 |
 | * 31 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  14 Apr 2022 | committed on 30 Aug 2022 |
 | * 32 | [#2034](https://github.com/pyro-ppl/pyro/issues/2034) | bug | closed | [content]() | Pyro pytorch 1.2. 互換性 | | compatibility | [Test]() |  10 Sep 2019 | committed on 11 Sep 2019 |
-| * 33 | [#2746](https://github.com/pyro-ppl/pyro/pull/2746) | bug | closed | [content]() | TransformReparam を .to_event() と互換性を持たせる | | compatibility | [Test]() |  22 Jan 2021 | committed on 23 Jan 2021 |
+| * 33 | [#2390](https://github.com/pyro-ppl/pyro/issues/2390) | bug | closed | [content]() | PyroModule は torch.nn.RNN と互換性がありません | | compatibility | [Test]() |  30 Mar 2021 | committed on 31 Mar 2020 |
+| * 34 | [#2746](https://github.com/pyro-ppl/pyro/pull/2746) | bug | closed | [content]() | TransformReparam を .to_event() と互換性を持たせる | | compatibility | [Test]() |  22 Jan 2021 | committed on 23 Jan 2021 |
 
 

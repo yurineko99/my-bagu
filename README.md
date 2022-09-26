@@ -31,7 +31,7 @@
 | * 5 | [#2726](https://github.com/pyro-ppl/pyro/pull/2726) | bug、Pending review| closed | [content]() | vectorized_markov でリプレイが正しく動作するように | | algorithm/accuracy | [Test]() |  29 Dec 2020 | committed on 21 Sep 2020 |
 | * 6 | [#2091](https://github.com/pyro-ppl/pyro/issues/2091) | bug | closed | [content]() | プログレスバー tqdm v4.36.1 と Pyro v0.4.1 で例外が発生し、複数のチェーンの進行状況が表示されるバグ | | dimension/boundary | [Test]() |  24 Oct 2019 | committed on 24 Oct 2019 |
 | * 7 | [#2122](https://github.com/pyro-ppl/pyro/issues/2122) | bug | closed | [content]() | 非スカラーサイトの予測クラスが失敗する | | dimension/boundary | [Test]() |  6 Nov 2019 | committed on 7 Nov 2019 |
-|* 8 | [#2226](https://github.com/pyro-ppl/pyro/pull/2226) | bug、Pending review | closed | [content]() | Pyro enum バグ修正 [WIP] | | dimension/boundary | [Test]() |  17 Dec 2019 | committed on 21 Dec 2019 |
+| * 8 | [#2226](https://github.com/pyro-ppl/pyro/pull/2226) | bug、Pending review | closed | [content]() | Pyro enum バグ修正 [WIP] | | dimension/boundary | [Test]() |  17 Dec 2019 | committed on 21 Dec 2019 |
 | * 9 | [#2270](https://github.com/pyro-ppl/pyro/issues/2270) | bug | closed | [content]() | デルタ分布がコンポーネントとして使用されている場合、MaskedMixture 分布は正しく機能しません | | dimension/boundary | [Test]() |  20 jan 2020 | committed on 23 jan 2020 |
 | * 10 | [#2366](https://github.com/pyro-ppl/pyro/issues/2366) | bug | closed | [content]() | [バグ] pyro.distributions.InverseGamma.sample が GPU で動作しない | | dimension/boundary | [Test]() |  14 Mar 2020 | committed on 14 Mar 2020 |
 | * 11 | [#2384](https://github.com/pyro-ppl/pyro/pull/2384) | bug、Pending review | closed | [content]() | log_abs_det_jacobian必要に応じて再計算されます | | dimension/boundary | [Test]() |  26 Mar 2020 | committed on 27 Mar 2020 |
@@ -48,12 +48,13 @@
 | * 22 | [#2764](https://github.com/pyro-ppl/pyro/pull/2764) | bug、Pending review | closed | [content]() | DistributionMeta の循環インポートを修正 | | Language/translation | [Test]() | 11 Feb 2021  | committed on 11 Feb 2021 |
 | * 23 | [#2886](https://github.com/pyro-ppl/pyro/issues/2886) | bug | closed | [content]() | RuntimeError: tensordot への入力がサポートされていません。dims=0 を取得しました | | Language/translation | [Test]() |  27 Jun 2021 | committed on 2 Jul 2021 |
 | * 24 | [#2971](https://github.com/pyro-ppl/pyro/issues/2971) | bug | closed | [content]() | RuntimeError: テンソル a (4928) のサイズは、非シングルトン次元 3 でテンソル b (4940) のサイズと一致する必要があります | | Language/translation | [Test]() |  20 Nov 2021 | committed on 25 Nov 2021 |
-| * 25 | [#2688](https://github.com/pyro-ppl/pyro/issues/2688) | bug、documentation | closed | [content]() | [Doc] AutoIAFNormal と affine_autoregressive の間のパラメーター署名の不一致 | | documentation | [Test]() |  4 Nov 2020 | committed on 6 Nov 2020 |
-| * 26 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [content]() | Student T テストが GPU で失敗する [バグ] | | system | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
-| * 27 | [#2792](https://github.com/pyro-ppl/pyro/pull/2792) | bug | closed | [content]() | JitTraceMeanField_ELBO で assert すると TracerWarning #2792がスローされます | | system | [Test]() |  4 Apr 2021 | committed on 6 Apr 2021 |
-| * 28 | [#3014](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  18 Feb 2022 | committed on 30 Aug 2022 |
-| * 29 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  14 Apr 2022 | committed on 30 Aug 2022 |
-| * 30 | [#2034](https://github.com/pyro-ppl/pyro/issues/2034) | bug | closed | [content]() | Pyro pytorch 1.2. 互換性 | | compatibility | [Test]() |  10 Sep 2019 | committed on 11 Sep 2019 |
-| * 31 | [#2746](https://github.com/pyro-ppl/pyro/pull/2746) | bug | closed | [content]() | TransformReparam を .to_event() と互換性を持たせる | | compatibility | [Test]() |  22 Jan 2021 | committed on 23 Jan 2021 |
+| * 25 | [#2608](https://github.com/pyro-ppl/pyro/issues/2608) | bug、documentation | closed | [content]() | Pyro ドキュメントが Google に表示されなくなりました | | documentation | [Test]() |  20 Aug 2020 | committed on 20 Aug 2020 |
+| * 26 | [#2688](https://github.com/pyro-ppl/pyro/issues/2688) | bug、documentation | closed | [content]() | [Doc] AutoIAFNormal と affine_autoregressive の間のパラメーター署名の不一致 | | documentation | [Test]() |  4 Nov 2020 | committed on 6 Nov 2020 |
+| * 27 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [content]() | Student T テストが GPU で失敗する [バグ] | | system | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
+| * 28 | [#2792](https://github.com/pyro-ppl/pyro/pull/2792) | bug | closed | [content]() | JitTraceMeanField_ELBO で assert すると TracerWarning #2792がスローされます | | system | [Test]() |  4 Apr 2021 | committed on 6 Apr 2021 |
+| * 29 | [#3014](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  18 Feb 2022 | committed on 30 Aug 2022 |
+| * 30 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  14 Apr 2022 | committed on 30 Aug 2022 |
+| * 31 | [#2034](https://github.com/pyro-ppl/pyro/issues/2034) | bug | closed | [content]() | Pyro pytorch 1.2. 互換性 | | compatibility | [Test]() |  10 Sep 2019 | committed on 11 Sep 2019 |
+| * 32 | [#2746](https://github.com/pyro-ppl/pyro/pull/2746) | bug | closed | [content]() | TransformReparam を .to_event() と互換性を持たせる | | compatibility | [Test]() |  22 Jan 2021 | committed on 23 Jan 2021 |
 
 

@@ -49,7 +49,7 @@
 | * 23 | [#2688](https://github.com/pyro-ppl/pyro/issues/2688) | bug、documentation | closed | [content]() | [Doc] AutoIAFNormal と affine_autoregressive の間のパラメーター署名の不一致 | | documentation | [Test]() |  4 Nov 2020 | committed on 6 Nov 2020 |
 | * 24 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [content]() | Student T テストが GPU で失敗する [バグ] | | system | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
 | * 25 | [#2792](https://github.com/pyro-ppl/pyro/pull/2792) | bug | closed | [content]() | JitTraceMeanField_ELBO で assert すると TracerWarning #2792がスローされます | | system | [Test]() |  4 Apr 2021 | committed on 6 Apr 2021 |
-| * 26 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  14 Apr 2022 | committed on 30 Aug 2022 |
-| * 27 | [#3014](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  18 Feb 2022 | committed on 30 Aug 2022 |
+| * 26 | [#3014](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  18 Feb 2022 | committed on 30 Aug 2022 |
+| * 27 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  14 Apr 2022 | committed on 30 Aug 2022 |
 
 

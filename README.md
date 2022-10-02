@@ -62,7 +62,7 @@
 | * 36 | [#2390](https://github.com/pyro-ppl/pyro/issues/2390) | bug | closed | [content]() | PyroModule は torch.nn.RNN と互換性がありません | | compatibility | [Test]() |  30 Mar 2021 | committed on 31 Mar 2020 |
 | * 37 | [#2746](https://github.com/pyro-ppl/pyro/pull/2746) | bug | closed | [content]() | TransformReparam を .to_event() と互換性を持たせる | | compatibility | [Test]() |  22 Jan 2021 | committed on 23 Jan 2021 |
 | Bug Id | Issue No | label |  Modify| Status | Type |Issue Registered | Issue Resolved |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#3014](https://github.com/pyro-ppl/pyro/issues/3014) | bug | closed |  [bug] Memory leak on GPU | memory space problem |   18 Feb 2022 | committed on 30 Aug 2022 |
 
 

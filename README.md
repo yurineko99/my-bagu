@@ -64,6 +64,7 @@
 | Bug Id | Issue No | label |  Modify | Status | Type |Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#3014](https://github.com/pyro-ppl/pyro/issues/3014) | bug | closed |  [bug] Memory leak on GPU | memory space problem |   18 Feb 2022 | committed on 30 Aug 2022 |
-| * 2 | [#3100](https://github.com/pyro-ppl/pyro/issues/3100) | bug、duplicate、question | closed |  Excessive RAM consumption when coding mean field VI for LDA | algorithm/accuracy |   2 Jun 2022 | committed on 2 Jun 2022 |
+| * 2 | [#3018](https://github.com/pyro-ppl/pyro/issues/3018) | bug | closed |  [Support for Python 3.10] MCMC example in documentation does not work: AttributeError: __enter__ | algorithm/accuracy |   21 Feb 2022 | committed on 2 Jun 2022 |
+| * 3 | [#3100](https://github.com/pyro-ppl/pyro/issues/3100) | bug、duplicate、question | closed |  Excessive RAM consumption when coding mean field VI for LDA | algorithm/accuracy |   2 Jun 2022 | committed on 4 Jun 2022 |
 
 

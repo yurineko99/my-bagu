@@ -65,15 +65,16 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#3014](https://github.com/pyro-ppl/pyro/issues/3014) | bug | closed |  [bug] Memory leak on GPU | memory space problem |   18 Feb 2022 | committed on 30 Aug 2022 |
 | * 2 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed |  Memory leak using TraceEnum_ELBO | memory space problem |   14 Apr 2022 | committed on 30 Aug 2022 |
-| * 3 | [#2870](https://github.com/pyro-ppl/pyro/issues/2870) | bug | closed |  https://github.com/pyro-ppl/pyro/issues/2870 | algorithm/accuracy |   12 Jun 2021 | committed on 12 Jun 2021 |
+| * 3 | [#2870](https://github.com/pyro-ppl/pyro/issues/2870) | bug | closed |  guide.quantiles() shape issue | algorithm/accuracy |   12 Jun 2021 | committed on 12 Jun 2021 |
 | * 4 | [#3018](https://github.com/pyro-ppl/pyro/issues/3018) | bug | closed |  [Support for Python 3.10] MCMC example in documentation does not work: AttributeError: __enter__ | algorithm/accuracy |   21 Feb 2022 | committed on 2 Jun 2022 |
 | * 5 | [#3044](https://github.com/pyro-ppl/pyro/issues/3044) | bug、discussion | closed |  [bug] Pyroizing modules with PyroModule[model] does not work for all layers. | algorithm/accuracy |   15 Mar 2022 | committed on 24 Apr 2022 |
 | * 6 | [#3100](https://github.com/pyro-ppl/pyro/issues/3100) | bug、duplicate、question | closed |  Excessive RAM consumption when coding mean field VI for LDA | algorithm/accuracy |   2 Jun 2022 | committed on 4 Jun 2022 |
 | * 7 | [#2935](https://github.com/pyro-ppl/pyro/issues/2935) | bug | closed | pyro.param cannot be set to CPU correctly | Dimension/boundary-value |   24 Sep 2021 | committed on 25 Sep 2021 |
-| * 8 | [#2886](https://github.com/pyro-ppl/pyro/issues/2886) | bug | closed |  RuntimeError: unsupported input to tensordot, got dims=0 | Language/translation |   27 Jun 2021 | committed on 2 Jul 2021 |
-| * 9 | [#2980](https://github.com/pyro-ppl/pyro/issues/2980) | bug | closed |  pyro.render_model() fails to draw overlapping non-nested plates | Language/translation |   8 Dec 2021 | committed on 3 Mar 2022 |
-| * 10 | [#3032](https://github.com/pyro-ppl/pyro/issues/3032) | bug、test | closed | [CI] torch.meshgrid having new default indexing in 1.10.0 (CI server currently installs 1.9.0)  | version issue |   17 Mar 2022 | committed on 10 Apr 2022 |
-| * 11 | [#3046](https://github.com/pyro-ppl/pyro/issues/3046) | bug | closed | ome pyro.contrib.funsor tests are failing in torch==1.11.0  | version issue |   2 Mar 2022 | committed on 18 Mar 2022 |
-| * 12 | [#2964](https://github.com/pyro-ppl/pyro/pull/2964) | bug、awaiting review | closed | Fix provenance of kwargs  | others |   9 Nov 2021 | committed on 12 Nov 2021 |
+| * 8 | [#2833](https://github.com/pyro-ppl/pyro/issues/2833) | bug | closed |  RuntimeError: cannot reshape tensor of 0 elements into shape [-1, 0, 0] because the unspecified dimension size -1 can be any value and is ambiguous | Language/translation |   5 May 2021 | committed on 5 May 2021 |
+| * 9 | [#2886](https://github.com/pyro-ppl/pyro/issues/2886) | bug | closed |  RuntimeError: unsupported input to tensordot, got dims=0 | Language/translation |   27 Jun 2021 | committed on 2 Jul 2021 |
+| * 10 | [#2980](https://github.com/pyro-ppl/pyro/issues/2980) | bug | closed |  pyro.render_model() fails to draw overlapping non-nested plates | Language/translation |   8 Dec 2021 | committed on 3 Mar 2022 |
+| * 11 | [#3032](https://github.com/pyro-ppl/pyro/issues/3032) | bug、test | closed | [CI] torch.meshgrid having new default indexing in 1.10.0 (CI server currently installs 1.9.0)  | version issue |   17 Mar 2022 | committed on 10 Apr 2022 |
+| * 12 | [#3046](https://github.com/pyro-ppl/pyro/issues/3046) | bug | closed | ome pyro.contrib.funsor tests are failing in torch==1.11.0  | version issue |   2 Mar 2022 | committed on 18 Mar 2022 |
+| * 13 | [#2964](https://github.com/pyro-ppl/pyro/pull/2964) | bug、awaiting review | closed | Fix provenance of kwargs  | others |   9 Nov 2021 | committed on 12 Nov 2021 |
 
 

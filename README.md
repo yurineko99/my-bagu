@@ -70,5 +70,6 @@
 | * 5 | [#3100](https://github.com/pyro-ppl/pyro/issues/3100) | bug、duplicate、question | closed |  Excessive RAM consumption when coding mean field VI for LDA | algorithm/accuracy |   2 Jun 2022 | committed on 4 Jun 2022 |
 | * 6 | [#3032](https://github.com/pyro-ppl/pyro/issues/3032) | bug、test | closed | [CI] torch.meshgrid having new default indexing in 1.10.0 (CI server currently installs 1.9.0)  | version issue |   17 Mar 2022 | committed on 10 Apr 2022 |
 | * 7 | [#3046](https://github.com/pyro-ppl/pyro/issues/3046) | bug | closed | ome pyro.contrib.funsor tests are failing in torch==1.11.0  | version issue |   2 Mar 2022 | committed on 18 Mar 2022 |
+| * 8 | [#2964](https://github.com/pyro-ppl/pyro/pull/2964) | bug、awaiting review | closed | Fix provenance of kwargs  | others |   9 Nov 2021 | committed on 12 Nov 2021 |
 
 

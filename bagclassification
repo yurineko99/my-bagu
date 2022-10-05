@@ -8,7 +8,9 @@ pytorch/rl
 URL(https://github.com/pytorch/rl/issues/510)
 しない
 Lightning-AI/lightning
+Set running_torchscript recursively #14657
 rainer: fix support for non-distributed PyTorch #14971
+Attempt to query device count via NVML #14631
 ray-project/ray
 [Tune] Torch Lightning の例がハング する #28666
 huggingface/transformers
@@ -17,5 +19,11 @@ LironSimon/SciMED
 replace pytorch by torch #3
 apple/coremltools
 GroupNormalization torch op definition is incorrect #1607
-
-
+goksenin-uav/strongsort-pip
+delete_torch_reid #4
+パイトーク/vision
+fix resize for segmentation masks without channel dimension #6576
+nod-ai/SHARK
+PyTorch DistilBERT fails to lower in torch-mlir (aten.view op) #354
+ピグチーム/pythoech_geometric
+segment_matmul in RGCNConv throws RuntimeError

@@ -27,3 +27,5 @@ nod-ai/SHARK
 PyTorch DistilBERT fails to lower in torch-mlir (aten.view op) #354
 ピグチーム/pythoech_geometric
 segment_matmul in RGCNConv throws RuntimeError
+TeamPGM/paherMaid-pyro
+Supplementary proxy attributes #31

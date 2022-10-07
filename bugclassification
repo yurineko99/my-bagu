@@ -6,11 +6,6 @@ URL(https://github.com/HesitantlyHuman/autoclip/issues/8)
 pytorch/rl
 [BUG] FlattenObservation specs cannot be retrieved when first_dim!=0 #510
 URL(https://github.com/pytorch/rl/issues/510)
-pyro-ppl/funsor
-pyro-ppl/numpyro
-
-
-
 しない
 Lightning-AI/lightning
 Set running_torchscript recursively #14657

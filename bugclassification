@@ -6,6 +6,9 @@ URL(https://github.com/HesitantlyHuman/autoclip/issues/8)
 pytorch/rl
 [BUG] FlattenObservation specs cannot be retrieved when first_dim!=0 #510
 URL(https://github.com/pytorch/rl/issues/510)
+jdb78/pytorch-forecasting
+https://github.com/jdb78/pytorch-forecasting
+Issue closed 29
 しない
 Lightning-AI/lightning
 Set running_torchscript recursively #14657
@@ -88,6 +91,26 @@ weiaicunzai/pytorch-cifar100
 yhenon/pytorch-retinanet
 SeanNaren/deepspeech.pytorch
 NVlabs/stylegan2-ada-pytorch
+xxradon/ Pytorch ToCaffe
+AntixK/ PyTorch -VAE
+sksq96/pytorch-summary
+carpedm20/ENAS-pytorch
+hunkim/PyTorchZeroToAll
+INTERMT/Awesome-PyTorch-Chinese
+znxlwm/UGATIT-pytorch
+fxia22/pointnet.pytorch
+jfzhang95/pytorch-deeplab-xception
+mravanelli/pytorch-kaldi
+KevinMusgrave/pytorch-metric-learning
+bearpaw/pytorch-classification
+tkipf/pygcn
+jadore801120/attention-is-all-you-need-pytorch
+NVIDIA/flownet2-pytorch
+wkentaro/pytorch-fcn
+implus/PytorchInsight
+qfgaohao/pytorch-ssd
+moskomule/senet.pytorch
+jdb78/pytorch-forecasting
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [content]() | MCMC は、単純なロジスティック回帰モデルに対して jit_compile を実行できません |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |

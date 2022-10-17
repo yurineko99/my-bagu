@@ -110,7 +110,55 @@ wkentaro/pytorch-fcn
 implus/PytorchInsight
 qfgaohao/pytorch-ssd
 moskomule/senet.pytorch
-jdb78/pytorch-forecasting
-| Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
+KevinMusgrave/pytorch-metric-learning
+bearpaw/pytorch-分類
+tkipf/pygcn
+jadore801120/attention-is-all-you-need-pytorch
+NVIDIA/flownet2-pytorch
+wkentaro/pytorch-fcn
+implus/PytorchInsight
+qfgaohao/pytorch-ssd
+moskomule/senet.pytorch
+layumi/Person_reID_baseline_pytorch
+speechbrain/speechbrain
+ZQPei/deep_sort_pytorch
+mseitzer/pytorch-fid
+microsoft/human-pose-estimation.pytorch
+fendouai/PyTorchDocs
+lucidrains/stylegan2-pytorch
+dragen1860/MAML-Pytorch
+OpenNMT/OpenNMT-py
+sanghyun-son/EDSR-PyTorch
+NVIDIA/apex
+Lyken17/pytorch-OpCounter
+NVlabs/stylegan3
+gmalivenko/pytorch2keras
+pengzhiliang/MAE-pytorch
+rosinality/stylegan2-pytorch
+znxlwm/pytorch-generative-model-collections
+Tramac/awesome-semantic-segmentation-pytorch
+CoinCheung/pytorch-loss
+bubbliiiing/yolov4-pytorch
+bubbliiiing/yolov4-pytorch
+longcw/pytorch2caffe
+WongKinYiu/PyTorch_YOLOv4
+facebookresearch/PyTorch-BigGraph
+yanx27/Pointnet_Pointnet2_pytorch
+Po-Hsun-Su/pytorch-ssim
+multimodallearning/pytorch-mask-rcnn
+ajbrock/BigGAN-PyTorch
+649453932/Bert-Chinese-Text-Classification-Pytorch
+jettify/pytorch-optimizer
+bubbliiiing/yolo3-pytorch
+p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+sweetice/Deep-reinforcement-learning-with-pytorch
+songyouwei/ABSA-PyTorch
+zhanghang1989/PyTorch-Encoding
+WuJie1010/Facial-Expression-Recognition.Pytorch
+yassouali/pytorch-segmentation
+filipradenovic/cnnimageretrieval-pytorch
+xiaotudui/pytorch-tutorial
+longcw/faster_rcnn_pytorch
+| | | | バグ ID | 問題番号 | ラベル | 固定 | 変更| ステータス |バージョン|タイプ|テスト|登録された問題 | 問題解決 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [content]() | MCMC は、単純なロジスティック回帰モデルに対して jit_compile を実行できません |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |

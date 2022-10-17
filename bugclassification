@@ -28,4 +28,66 @@ PyTorch DistilBERT fails to lower in torch-mlir (aten.view op) #354
 ピグチーム/pythoech_geometric
 segment_matmul in RGCNConv throws RuntimeError
 TeamPGM/paherMaid-pyro
-Supplementary proxy attributes #31
+yunjey/pytorch-tutorial
+facebookresearch/pytorch3d
+pytorch/tutorials
+pyg-team/pytorch_geometric
+Clown0503/PyRoomba
+Enroutemx/pyroute
+python-engineer/pytorchTutorial
+rwightman/pytorch-image-models
+lucidrains/vit-pytorch
+eriklindernoren/PyTorch-GAN
+milesial/Pytorch-UNet
+kuangliu/pytorch-cifar
+ultralytics/yolov5
+amdegroot/ssd.pytorch
+eriklindernoren/PyTorch-YOLOv3
+jwyang/faster-rcnn.pytorch
+junyanz/pytorch-CycleGAN-and-pix2pix
+Cadene/pretrained-models.pytorch
+codertimo/BERT-pytorch
+lukemelas/EfficientNet-PyTorch
+jcjohnson/pytorch-examples
+utkuozbulak/pytorch-cnn-visualizations
+xmu-xiaoma666/External-Attention-pytorch
+L1aoXingyu/pytorch-beginner
+TingsongYu/PyTorch_Tutorial
+victoresque/pytorch-template
+qubvel/segmentation_models.pytorch
+Tianxiaomo/pytorch-YOLOv4
+meetps/pytorch-semseg
+hughperkins/pytorch
+jacobgil/pytorch-grad-cam
+lzx1413/PytorchSSD
+timesler/facenet-pytorch
+clovaai/CRAFT-pytorch
+lucidrains/DALLE-pytorch
+CSAILVision/semantic-segmentation-pytorch
+649453932/Chinese-Text-Classification-Pytorch
+ayooshkathuria/pytorch-yolo-v3
+lucidrains/imagen-pytorch
+lucidrains/imagen-pytorch
+Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
+
+deep-learning artificial-intelligence text-to-image text-to-video imagination-machine
+ 5.4k
+ Python
+MIT license
+Updated 7 days ago
+yenchenlin/nerf-pytorch
+roytseng-tw/Detectron.pytorch 
+biubug6/Pytorch_Retinaface
+biubug6/Pytorch_Retinaface
+meijieru/crnn.pytorch
+lucidrains/DALLE2-pytorch
+traveller59/second.pytorch
+aaron-xichen/pytorch-playground
+ultralytics/yolov3
+weiaicunzai/pytorch-cifar100
+yhenon/pytorch-retinanet
+SeanNaren/deepspeech.pytorch
+NVlabs/stylegan2-ada-pytorch
+| Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [content]() | MCMC は、単純なロジスティック回帰モデルに対して jit_compile を実行できません |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |

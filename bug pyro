@@ -3,10 +3,17 @@ pyro-ppl/pyro
 pyro-ppl/Pyro-M5-Starter-Ket
 pyro-ppl/pyro-model
 パイロppl/numpyro
+URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
+Issue close 75
 stadler/pyrocket
 pyro-ppl/pyro-api
 llSourcell/an_intro_to_probabilistic_programming
-pyro-ppl/funsor
+Pyro-ppl/ファンサー
+URL https://github.com/pyro-ppl/funsor/issues?q=label%3Abug+is%3Aclosed
+Issue closed 31
+pyprob/pyprob
+URL  https://github.com/pyprob/pyprob/issues?q=label%3Abug+is%3Aclosed
+Issue closed 2
 PR0FESS0R-99/Simple-Pyrogram-Bot
 確率的プログラミングに関連しない
 パイログラム/pyrogram

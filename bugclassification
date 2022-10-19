@@ -158,7 +158,16 @@ WuJie1010/Facial-Expression-Recognition.Pytorch
 yassouali/pytorch-segmentation
 filipradenovic/cnnimageretrieval-pytorch
 xiaotudui/pytorch-tutorial
-longcw/faster_rcnn_pytorch
+r9y9/deepvoice3_pytorch
+lucidrains/reformer-pytorch
+shanglianlm0525/PyTorch-Networks
+yjxiong/tsn-pytorch
+devnag/pytorch-generative-adversarial-networks
+rwightman/efficientdet-pytorch
+dragen1860/Deep-Learning-with-PyTorch-Tutorials
+longcw/yolo2-pytorch
+tristandeleu/pytorch-meta
+zijundeng/pytorch-semantic-segmentation
 | | | | バグ ID | 問題番号 | ラベル | 固定 | 変更| ステータス |バージョン|タイプ|テスト|登録された問題 | 問題解決 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [content]() | MCMC は、単純なロジスティック回帰モデルに対して jit_compile を実行できません |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |

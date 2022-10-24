@@ -8,7 +8,11 @@ pytorch/rl
 URL(https://github.com/pytorch/rl/issues/510)
 jdb78/pytorch-forecasting
 https://github.com/jdb78/pytorch-forecasting
-Issue closed 29
+発行終了 29
+関係ないバグな
+Best Model not provided #56
+TypeError: 'str' object cannot be interpreted as an integer #171
+Bugfix/basemodel handles non tensor raw predictions #173
 Argusswift/YOLOv4-pytorch
 Issue closed 3 bug
 しない

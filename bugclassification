@@ -193,6 +193,3 @@ gpleiss/ effective_densenet_pytorch
 chenyuntc/ PyTorchText
 thu-ml/tianshou
 haitongli/knowledge-distillation-pytorch
-| | | | バグ ID | 問題番号 | ラベル | 固定 | 変更| ステータス |バージョン|タイプ|テスト|登録された問題 | 問題解決 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [content]() | MCMC は、単純なロジスティック回帰モデルに対して jit_compile を実行できません |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |

@@ -88,5 +88,6 @@ https://github.com/jdb78/pytorch-forecasting
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#49](https://github.com/jdb78/pytorch-forecasting/issues/49) | bug | closed | [content]() | Error saving checkpoint |  | Language/translation | [Test]() |  20 Sep 2020 | committed on 24 Sep 2020 |
+| * 2 | [#79](https://github.com/jdb78/pytorch-forecasting/issues/79) | bug | closed | [content]() | Issues running TDS Stallion Example with W&B logger  |  | Language/translation | [Test]() |  6 Oct 2020 | committed on 5 Nov 2020 |
 
 

@@ -88,9 +88,10 @@ https://github.com/jdb78/pytorch-forecasting
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#85](https://github.com/jdb78/pytorch-forecasting/issues/85) | bug、help wanted | closed | [content]() | Tensor Dimension Error When Applying TFT to Multiple Groups in Own Data |  | algorithmic/accuracy | [Test]() |  8 Oct 2020 | committed on 7 Sep 2021 |
-| * 2 | [#49](https://github.com/jdb78/pytorch-forecasting/issues/49) | bug、dependencies | closed | [content]() | Error saving checkpoint |  | Language/translation | [Test]() |  20 Sep 2020 | committed on 24 Sep 2020 |
-| * 3 | [#79](https://github.com/jdb78/pytorch-forecasting/issues/79) | bug、enhancement | closed | [content]() | Issues running TDS Stallion Example with W&B logger |  | Language/translation | [Test]() |  6 Oct 2020 | committed on 5 Nov 2020 |
-| * 4 | [#114](https://github.com/jdb78/pytorch-forecasting/issues/114) | bug | closed | [content]() | 'TimeSeriesDataSet' object has no attribute 'args'  |  | Language/translation | [Test]() |  20 Oct 2020 | committed on 20 Oct 2020 |
+| * 2 | [#122](https://github.com/jdb78/pytorch-forecasting/issues/49) | bug、enhancement、help wanted | closed | [content]() | Categorical encoding bug |  | Dimension/boundary-value | [Test]() |  22 Oct 2020 | committed on 30 Nov 2020 |
+| * 3 | [#49](https://github.com/jdb78/pytorch-forecasting/issues/49) | bug、dependencies| closed | [content]() | Error saving checkpoint |  | Language/translation | [Test]() |  20 Sep 2020 | committed on 24 Sep 2020 |
+| * 4 | [#79](https://github.com/jdb78/pytorch-forecasting/issues/79) | bug、enhancement　| closed | [content]() | Issues running TDS Stallion Example with W&B logger |  | Language/translation | [Test]() |  6 Oct 2020 | committed on 5 Nov 2020 |
+| * 5 | [#114](https://github.com/jdb78/pytorch-forecasting/issues/114) | bug | closed | [content]() | 'TimeSeriesDataSet' object has no attribute 'args'  |  | Language/translation | [Test]() |  20 Oct 2020 | committed on 20 Oct 2020 |
 
 
 

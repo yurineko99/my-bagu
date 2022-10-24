@@ -9,12 +9,6 @@ URL(https://github.com/pytorch/rl/issues/510)
 jdb78/pytorch-forecasting
 https://github.com/jdb78/pytorch-forecasting
 Issue closed 29
-| Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [content]() | MCMC は、単純なロジスティック回帰モデルに対して jit_compile を実行できません
-| | | | アルゴリズム/精度 | [テスト]() | 2019 年 12 月 4 日 | 2019 年 12 月 14 日にコミット |
-| | * 1 | [49](https://github.com/jdb78/pytorch-forecasting/issues/49) | バグ | 閉鎖 | チェックポイントの保存エラー 
-|  | 
 Argusswift/YOLOv4-pytorch
 Issue closed 3 bug
 しない

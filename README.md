@@ -97,6 +97,7 @@ https://github.com/jdb78/pytorch-forecasting
 | * 8 | [#79](https://github.com/jdb78/pytorch-forecasting/issues/79) | bug、enhancement　| closed | [content]() | Issues running TDS Stallion Example with W&B logger |  | Language/translation | [Test]() |  6 Oct 2020 | committed on 5 Nov 2020 |
 | * 9 | [#114](https://github.com/jdb78/pytorch-forecasting/issues/114) | bug | closed | [content]() | 'TimeSeriesDataSet' object has no attribute 'args'  |  | Language/translation | [Test]() |  20 Oct 2020 | committed on 20 Oct 2020 |
 | * 10 | [#135](https://github.com/jdb78/pytorch-forecasting/issues/135) | bug | closed | [content]() | Error passing CUDA tensor to nn.utils.rnn.pack_padded_sequence |  | Language/translation | [Test]() |  1 Nov 2020 | committed on 26 Jan 2021 |
+| * 11 | [#365](https://github.com/jdb78/pytorch-forecasting/issues/365) | bug | closed | [content]() | Trying to predict on GPU. RuntimeError: All input tensors must be on the same device. Received cuda:0 and cpu |  | Language/translation | [Test]() |  24 Feb 2021 | committed on 18 Mar 2021 |
 
 
 

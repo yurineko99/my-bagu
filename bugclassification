@@ -19,6 +19,10 @@ The following error occurred when run 'stallion.ipynb' ，How to solve it？ #37
 Error running tft tutorial #383
 RAM memory getting filled on training #286
 map_location for TemporalFusionTransformer.load_from_checkpoint not working? #294
+Bug with TFT raw predictions for multitarget predictions #432
+RecurrentNetwork.from_dataset does not read user defined hyperparameters #493
+DeepAR Example Failure on Colab - Expected all tensors to be on the same device #501
+PIXMAP Error #538
 Argusswift/YOLOv4-pytorch
 Issue closed 3 bug
 しない

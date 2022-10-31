@@ -111,7 +111,8 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 5 | [#76](https://github.com/pyro-ppl/numpyro/issues/76) | bug | closed | [content]() | Discrete distribution does not respect initial seed |  | Dimension/boundary-value | [Test]() |  2 Apr 2019 | committed on 3 Apr 2019 |
 | * 6 | [#142](https://github.com/pyro-ppl/numpyro/issues/142) | bug、performance | closed | [content]() | standard_gamma not caching compiled function  |  | Dimension/boundary-value | [Test]() |  10 May 2019 | committed on 10 May 2019 |
 | * 7 | [#112](https://github.com/pyro-ppl/numpyro/issues/112) | bug | closed | [content]() | Some custom primitives does not work with the newest version of jax |  | version error | [Test]() |  17 Apr 2019 | committed on 3 May 2019 |
-| * 8 | [#169](https://github.com/pyro-ppl/numpyro/issues/169) | bug | closed | [content]() | tqdm hangs when set_postfix_str with refresh=True |  | hangup | [Test]() |  26 Apr 2019 | committed on 30 May 2019 |
-| * 9 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable | others | version error | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
+| * 8 | [#216](https://github.com/pyro-ppl/numpyro/issues/216) | bug、performance | closed | [content]() | Timeseries model does not work with new version of lax.scan |  | version error | [Test]() |  21 Jun 2019 | committed on 15 Aug 2019 |
+| * 9 | [#169](https://github.com/pyro-ppl/numpyro/issues/169) | bug | closed | [content]() | tqdm hangs when set_postfix_str with refresh=True |  | hangup | [Test]() |  26 Apr 2019 | committed on 30 May 2019 |
+| * 10 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable | others | version error | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
 
 

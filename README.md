@@ -104,12 +104,13 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 発行終了 77
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| * 1 | [#146](https://github.com/pyro-ppl/numpyro/issues/146) | bug | closed | [content]() | binomial/multinomial tests fail with the new version of jax |  | Algorithmic/accuracy | [Test]() |  12 May 2019 | committed on 13 May 2019 |
-| * 2 | [#2](https://github.com/pyro-ppl/numpyro/issues/2) | bug | closed | [content]() | Enable jit compilation in minipyro |  | Dimension/boundary-value | [Test]() |  21 Feb 2019 | committed on 21 Feb 2019 |
-| * 3 | [#45](https://github.com/pyro-ppl/numpyro/issues/45) | bug | closed | [content]() | Disable generic args checking for discrete distributions |  | Dimension/boundary-value | [Test]() |  16 Mar 2019 | committed on 22 Mar 2019 |
-| * 4 | [#76](https://github.com/pyro-ppl/numpyro/issues/76) | bug | closed | [content]() | Discrete distribution does not respect initial seed |  | Dimension/boundary-value | [Test]() |  2 Apr 2019 | committed on 3 Apr 2019 |
-| * 5 | [#142](https://github.com/pyro-ppl/numpyro/issues/142) | bug、performance | closed | [content]() | standard_gamma not caching compiled function  |  | Dimension/boundary-value | [Test]() |  10 May 2019 | committed on 10 May 2019 |
-| * 6 | [#112](https://github.com/pyro-ppl/numpyro/issues/112) | bug | closed | [content]() | Some custom primitives does not work with the newest version of jax |  | version error | [Test]() |  17 Apr 2019 | committed on 3 May 2019 |
-| * 7 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable | others | version error | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
+| * 1 | [#146](https://github.com/pyro-ppl/numpyro/issues/146) | bug | closed | [content]() | binomial/multinomial tests fail with the new version of jax |  | Algorithmic/accuracy | [Test]() |  16 May 2019 | committed on 21 May 2019 |
+| * 2 | [#154](https://github.com/pyro-ppl/numpyro/issues/154) | bug | closed | [content]() | NUTS doesn't converge on a stan model |  | Algorithmic/accuracy | [Test]() |  12 May 2019 | committed on 13 May 2019 |
+| * 3 | [#2](https://github.com/pyro-ppl/numpyro/issues/2) | bug | closed | [content]() | Enable jit compilation in minipyro |  | Dimension/boundary-value | [Test]() |  21 Feb 2019 | committed on 21 Feb 2019 |
+| * 4 | [#45](https://github.com/pyro-ppl/numpyro/issues/45) | bug | closed | [content]() | Disable generic args checking for discrete distributions |  | Dimension/boundary-value | [Test]() |  16 Mar 2019 | committed on 22 Mar 2019 |
+| * 5 | [#76](https://github.com/pyro-ppl/numpyro/issues/76) | bug | closed | [content]() | Discrete distribution does not respect initial seed |  | Dimension/boundary-value | [Test]() |  2 Apr 2019 | committed on 3 Apr 2019 |
+| * 6 | [#142](https://github.com/pyro-ppl/numpyro/issues/142) | bug、performance | closed | [content]() | standard_gamma not caching compiled function  |  | Dimension/boundary-value | [Test]() |  10 May 2019 | committed on 10 May 2019 |
+| * 7 | [#112](https://github.com/pyro-ppl/numpyro/issues/112) | bug | closed | [content]() | Some custom primitives does not work with the newest version of jax |  | version error | [Test]() |  17 Apr 2019 | committed on 3 May 2019 |
+| * 8 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable | others | version error | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
 
 

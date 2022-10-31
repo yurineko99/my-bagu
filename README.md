@@ -99,6 +99,10 @@ https://github.com/jdb78/pytorch-forecasting
 | * 10 | [#114](https://github.com/jdb78/pytorch-forecasting/issues/114) | bug | closed | [content]() | 'TimeSeriesDataSet' object has no attribute 'args'  |  | Language/translation | [Test]() |  20 Oct 2020 | committed on 20 Oct 2020 |
 | * 11 | [#135](https://github.com/jdb78/pytorch-forecasting/issues/135) | bug | closed | [content]() | Error passing CUDA tensor to nn.utils.rnn.pack_padded_sequence |  | Language/translation | [Test]() |  1 Nov 2020 | committed on 26 Jan 2021 |
 | * 12 | [#365](https://github.com/jdb78/pytorch-forecasting/issues/365) | bug | closed | [content]() | Trying to predict on GPU. RuntimeError: All input tensors must be on the same device. Received cuda:0 and cpu |  | Language/translation | [Test]() |  24 Feb 2021 | committed on 18 Mar 2021 |
-
-
+パイロppl/numpyro
+URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
+発行終了 77
+| Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| * 1 | [#2](https://github.com/pyro-ppl/numpyro/issues/2) | bug | closed | [content]() | Enable jit compilation in minipyro |  | Dimension/boundary-value | [Test]() |  21 Feb 2019 | committed on 21 Feb 2019 |
 

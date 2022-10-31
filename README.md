@@ -108,5 +108,6 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 2 | [#45](https://github.com/pyro-ppl/numpyro/issues/45) | bug | closed | [content]() | Disable generic args checking for discrete distributions |  | Dimension/boundary-value | [Test]() |  16 Mar 2019 | committed on 22 Mar 2019 |
 | * 3 | [#76](https://github.com/pyro-ppl/numpyro/issues/76) | bug | closed | [content]() | Discrete distribution does not respect initial seed |  | Dimension/boundary-value | [Test]() |  2 Apr 2019 | committed on 3 Apr 2019 |
 | * 4 | [#112](https://github.com/pyro-ppl/numpyro/issues/112) | bug | closed | [content]() | Some custom primitives does not work with the newest version of jax |  | version error | [Test]() |  17 Apr 2019 | committed on 3 May 2019 |
+| * 4 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable | others | version error | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
 
 

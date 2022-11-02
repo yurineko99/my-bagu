@@ -119,5 +119,6 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 13 | [#169](https://github.com/pyro-ppl/numpyro/issues/169) | bug | closed | [content]() | tqdm hangs when set_postfix_str with refresh=True |  | hangup | [Test]() |  26 Apr 2019 | committed on 30 May 2019 |
 | * 14 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable |  | others | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
 | * 15 | [#254](https://github.com/pyro-ppl/numpyro/issues/254) | bug | closed | [content]() | Usage of the scale effect handler? |  | others | [Test]() |  24 Jul 2019 | committed on 25 Jul 2019 |
+| * 16 | [#287](https://github.com/pyro-ppl/numpyro/issues/287) | bug | closed | [content]() | substitute logic in autoguide is inconsistence |  | others | [Test]() |  22 Aug 2019 | committed on 28 Aug 2019 |
 
 

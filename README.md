@@ -116,14 +116,15 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 10 | [#249](https://github.com/pyro-ppl/numpyro/issues/249) | bug | closed | [content]() | HMC adaptation stuck at warmup phase due to step_size -> nan |  | Dimension/boundary-value | [Test]() |  18 Jul 2019 | committed on 18 Jul 2019 |
 | * 11 | [#252](https://github.com/pyro-ppl/numpyro/issues/252) | bug | closed | [content]() | fori_collect does not work with non-float arrays  |  | Dimension/boundary-value | [Test]() |  18 Jul 2019 | committed on 30 Jul 2019 |
 | * 12 | [#288](https://github.com/pyro-ppl/numpyro/issues/288) | bug、performance | closed | [content]() | mcmc is so slow with the new version of JAX |  | Dimension/boundary-value | [Test]() |  23 Aug 2019 | committed on 26 Aug 2019 |
-| * 13 | [#279](https://github.com/pyro-ppl/numpyro/issues/279) | bug | closed | [content]() | HMM example failing on travis with jax=0.1.41  |  | Language/translation | [Test]() |  9 Aug 2019 | committed on 14 Aug 2019 |
-| * 14 | [#112](https://github.com/pyro-ppl/numpyro/issues/112) | bug | closed | [content]() | Some custom primitives does not work with the newest version of jax |  | version error | [Test]() |  17 Apr 2019 | committed on 3 May 2019 |
-| * 15 | [#216](https://github.com/pyro-ppl/numpyro/issues/216) | bug、performance | closed | [content]() | Timeseries model does not work with new version of lax.scan |  | version error | [Test]() |  21 Jun 2019 | committed on 15 Aug 2019 |
-| * 16 | [#169](https://github.com/pyro-ppl/numpyro/issues/169) | bug | closed | [content]() | tqdm hangs when set_postfix_str with refresh=True |  | hangup | [Test]() |  26 Apr 2019 | committed on 30 May 2019 |
-| * 17 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable |  | others | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
-| * 18 | [#254](https://github.com/pyro-ppl/numpyro/issues/254) | bug | closed | [content]() | Usage of the scale effect handler? |  | others | [Test]() |  24 Jul 2019 | committed on 25 Jul 2019 |
-| * 19 | [#287](https://github.com/pyro-ppl/numpyro/issues/287) | bug | closed | [content]() | substitute logic in autoguide is inconsistence |  | others | [Test]() |  22 Aug 2019 | committed on 28 Aug 2019 |
-| * 20 | [#355](https://github.com/pyro-ppl/numpyro/issues/355) | bug | closed | [content]() | plate has unexpected behaviour when dist has batch_shape |  | others | [Test]() |  26 Sep 2019 | committed on 27 Sep 2019 |
+| * 13 | [#393](https://github.com/pyro-ppl/numpyro/issues/393) | bug | closed | [content]() | Investigate discrepancy in effective sample size computation |  | General numerical bugs | [Test]() |  9 Oct 2019 | committed on 10 Oct 2019 |
+| * 14 | [#279](https://github.com/pyro-ppl/numpyro/issues/279) | bug | closed | [content]() | HMM example failing on travis with jax=0.1.41  |  | Language/translation | [Test]() |  9 Aug 2019 | committed on 14 Aug 2019 |
+| * 15 | [#112](https://github.com/pyro-ppl/numpyro/issues/112) | bug | closed | [content]() | Some custom primitives does not work with the newest version of jax |  | version error | [Test]() |  17 Apr 2019 | committed on 3 May 2019 |
+| * 16 | [#216](https://github.com/pyro-ppl/numpyro/issues/216) | bug、performance | closed | [content]() | Timeseries model does not work with new version of lax.scan |  | version error | [Test]() |  21 Jun 2019 | committed on 15 Aug 2019 |
+| * 17 | [#169](https://github.com/pyro-ppl/numpyro/issues/169) | bug | closed | [content]() | tqdm hangs when set_postfix_str with refresh=True |  | hangup | [Test]() |  26 Apr 2019 | committed on 30 May 2019 |
+| * 18 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable |  | others | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
+| * 19 | [#254](https://github.com/pyro-ppl/numpyro/issues/254) | bug | closed | [content]() | Usage of the scale effect handler? |  | others | [Test]() |  24 Jul 2019 | committed on 25 Jul 2019 |
+| * 20 | [#287](https://github.com/pyro-ppl/numpyro/issues/287) | bug | closed | [content]() | substitute logic in autoguide is inconsistence |  | others | [Test]() |  22 Aug 2019 | committed on 28 Aug 2019 |
+| * 21 | [#355](https://github.com/pyro-ppl/numpyro/issues/355) | bug | closed | [content]() | plate has unexpected behaviour when dist has batch_shape |  | others | [Test]() |  26 Sep 2019 | committed on 27 Sep 2019 |
 
 
 

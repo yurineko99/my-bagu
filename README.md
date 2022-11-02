@@ -131,6 +131,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 25 | [#287](https://github.com/pyro-ppl/numpyro/issues/287) | bug | closed | [content]() | substitute logic in autoguide is inconsistence |  | others | [Test]() |  22 Aug 2019 | committed on 28 Aug 2019 |
 | * 26 | [#355](https://github.com/pyro-ppl/numpyro/issues/355) | bug | closed | [content]() | plate has unexpected behaviour when dist has batch_shape |  | others | [Test]() |  26 Sep 2019 | committed on 27 Sep 2019 |
 | * 27 | [#475](https://github.com/pyro-ppl/numpyro/issues/475) | bug、performance | closed | [content]() | Regression in fori_collect when progress bar disabled |  | others | [Test]() |  30 Nov 2019 | committed on 10 Dec 2019 |
+| * 28 | [#650](https://github.com/pyro-ppl/numpyro/issues/650) | bug | closed | [content]() | Indepedent distribution does not have enumerate_support implemented |  | others | [Test]() |  30 Jun 2020 | committed on 30 Jun 2020 |
 
 
 

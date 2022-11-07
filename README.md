@@ -25,7 +25,7 @@
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [content]() | MCMC cannot jit_compile for a simple logistic regression model |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |
-| * 2 | [#2081](https://github.com/pyro-ppl/pyro/pull/2081) | bug、Pending review | closed | [content]() | 多変量分布に対する autoguide の init_to_median 戦略を修正します。 |  | algorithm/accuracy | [Test]() |  23 Oct 2019 | committed on 23 Oct 2019 |
+| * 2 | [#2081](https://github.com/pyro-ppl/pyro/pull/2081) | bug、Pending review | closed | [content]() | Fix autoguide's init_to_median strategy for multivariate distributions |  | algorithm/accuracy | [Test]() |  23 Oct 2019 | committed on 23 Oct 2019 |
 | * 3 | [#2223](https://github.com/pyro-ppl/pyro/issues/2223) | bug | closed | [content]() | 離散推論に関する文書化されていない制限? | | algorithm/accuracy | [Test]() |  12 Dec 2019 | committed on 23 Dec 2019 |
 | * 4 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [content]() | Student T テストが GPU で失敗する [バグ] | | algorithm/accuracy | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
 | * 5 | [#2272](https://github.com/pyro-ppl/pyro/issues/2272) | bug、high priority | closed | [content]() | [バグ] Pyro 1.2.0 の時点で num_chains>1 を使用すると、MCMC の実行で例外がスローされます。 | | algorithm/accuracy | [Test]() |  21 Jan 2020 | committed on 22 Jan 2020 |

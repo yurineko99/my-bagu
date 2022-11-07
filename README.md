@@ -137,6 +137,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 31 | [#671](https://github.com/pyro-ppl/numpyro/issues/671) | bug | closed | [content]() | Cannot reshape the output of chained MCMC |  | others | [Test]() |  8 Jul 2020 | committed on 26 Jul 2020 |
 | * 32 | [#728](https://github.com/pyro-ppl/numpyro/issues/728) | bug、awaiting review | closed | [content]() | Fix init_strategy argument not respected in hmc and sa |  | others | [Test]() |  10 Sep 2020 | committed on 10 Sep 2020 |
 | * 33 | [#749](https://github.com/pyro-ppl/numpyro/issues/749) | bug、jax | closed | [content]() | NumPyro is breaking with JAX 0.2 |  | others | [Test]() |  24 Sep 2020 | committed on 26 Sep 2020 |
+| * 34 | [#759](https://github.com/pyro-ppl/numpyro/issues/759) | bug、jax | closed | [content]() | jax.tree_utils do not keep dict key order |  | others | [Test]() |  29 Sep 2020 | committed on 29 Sep 2020 |
 
 
 

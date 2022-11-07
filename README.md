@@ -56,12 +56,12 @@
 | * 30 | [#2688](https://github.com/pyro-ppl/pyro/issues/2688) | bug、documentation | closed | [content]() | [Doc] Inconsistent of param signature between AutoIAFNormal and affine_autoregressive | | documentation | [Test]() |  4 Nov 2020 | committed on 6 Nov 2020 |
 | * 31 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [content]() | Student T tests fail on GPU [bug]  | | system | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
 | * 32 | [#2792](https://github.com/pyro-ppl/pyro/pull/2792) | bug | closed | [content]() | assert in JitTraceMeanField_ELBO throws TracerWarning | | system | [Test]() |  4 Apr 2021 | committed on 6 Apr 2021 |
-| * 33 | [#3014](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  18 Feb 2022 | committed on 30 Aug 2022 |
-| * 34 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | TraceEnum_ELBO を使用したメモリリーク | | memory leak | [Test]() |  14 Apr 2022 | committed on 30 Aug 2022 |
-| * 35 | [#2034](https://github.com/pyro-ppl/pyro/issues/2034) | bug | closed | [content]() | Pyro pytorch 1.2. 互換性 | | compatibility | [Test]() |  10 Sep 2019 | committed on 11 Sep 2019 |
-| * 36 | [#2390](https://github.com/pyro-ppl/pyro/issues/2390) | bug | closed | [content]() | PyroModule は torch.nn.RNN と互換性がありません | | compatibility | [Test]() |  30 Mar 2021 | committed on 31 Mar 2020 |
-| * 37 | [#2746](https://github.com/pyro-ppl/pyro/pull/2746) | bug | closed | [content]() | TransformReparam を .to_event() と互換性を持たせる | | compatibility | [Test]() |  22 Jan 2021 | committed on 23 Jan 2021 |
-| Bug Id | Issue No | label |  Modify | Status | Type |Issue Registered | Issue Resolved |
+| * 33 | [#3014](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | Memory leak using TraceEnum_ELBO | [Test]() |  18 Feb 2022 | committed on 30 Aug 2022 |
+| * 34 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | Memory leak using TraceEnum_ELBO | | memory leak | [Test]() |  14 Apr 2022 | committed on 30 Aug 2022 |
+| * 35 | [#2034](https://github.com/pyro-ppl/pyro/issues/2034) | bug | closed | [content]() | pyro pytorch 1.2. compatibility | | compatibility | [Test]() |  10 Sep 2019 | committed on 11 Sep 2019 |
+| * 36 | [#2390](https://github.com/pyro-ppl/pyro/issues/2390) | bug | closed | [content]() | PyroModule incompatible with torch.nn.RNN | | compatibility | [Test]() |  30 Mar 2021 | committed on 31 Mar 2020 |
+| * 37 | [#2746](https://github.com/pyro-ppl/pyro/pull/2746) | bug | closed | [content]() | Make TransformReparam compatible with .to_event() | | compatibility | [Test]() |  22 Jan 2021 | committed on 23 Jan 2021 |
+| Bug Id | Issue  | label |  Modify | Status | Type |Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#3014](https://github.com/pyro-ppl/pyro/issues/3014) | bug | closed |  [bug] Memory leak on GPU | memory space problem |   18 Feb 2022 | committed on 30 Aug 2022 |
 | * 2 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed |  Memory leak using TraceEnum_ELBO | memory space problem |   14 Apr 2022 | committed on 30 Aug 2022 |

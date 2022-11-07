@@ -131,16 +131,17 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 25 | [#414](https://github.com/pyro-ppl/numpyro/issues/414) | bug、jax | closed | [content]() | vectorized elbo does not work with beta bernoulli model |  | Functional issue | [Test]() |  27 Oct 2019 | committed on 9 Jan 2020 |
 | * 26 | [#447](https://github.com/pyro-ppl/numpyro/issues/447) | bug。performance | closed | [content]() | NUTS with GPU (doesn't work for bnn.py) |  | memory leak | [Test]() |  17 Nov 2019 | committed on 15 Dec 2020 |
 | * 27 | [#489](https://github.com/pyro-ppl/numpyro/issues/489) | bug、awaiting review | closed | [content]() | Release patch for python 3.7 incompatibility |  | compatibility issue | [Test]() |  5 Dec 2019 | committed on 5 Dec 2020 |
-| * 28 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable |  | others | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
-| * 29 | [#254](https://github.com/pyro-ppl/numpyro/issues/254) | bug | closed | [content]() | Usage of the scale effect handler? |  | others | [Test]() |  24 Jul 2019 | committed on 25 Jul 2019 |
-| * 30 | [#287](https://github.com/pyro-ppl/numpyro/issues/287) | bug | closed | [content]() | substitute logic in autoguide is inconsistence |  | others | [Test]() |  22 Aug 2019 | committed on 28 Aug 2019 |
-| * 31 | [#355](https://github.com/pyro-ppl/numpyro/issues/355) | bug | closed | [content]() | plate has unexpected behaviour when dist has batch_shape |  | others | [Test]() |  26 Sep 2019 | committed on 27 Sep 2019 |
-| * 32 | [#475](https://github.com/pyro-ppl/numpyro/issues/475) | bug、performance | closed | [content]() | Regression in fori_collect when progress bar disabled |  | others | [Test]() |  30 Nov 2019 | committed on 10 Dec 2019 |
-| * 33 | [#650](https://github.com/pyro-ppl/numpyro/issues/650) | bug | closed | [content]() | Indepedent distribution does not have enumerate_support implemented |  | others | [Test]() |  30 Jun 2020 | committed on 30 Jun 2020 |
-| * 34 | [#671](https://github.com/pyro-ppl/numpyro/issues/671) | bug | closed | [content]() | Cannot reshape the output of chained MCMC |  | others | [Test]() |  8 Jul 2020 | committed on 26 Jul 2020 |
-| * 35 | [#728](https://github.com/pyro-ppl/numpyro/issues/728) | bug、awaiting review | closed | [content]() | Fix init_strategy argument not respected in hmc and sa |  | others | [Test]() |  10 Sep 2020 | committed on 10 Sep 2020 |
-| * 36 | [#749](https://github.com/pyro-ppl/numpyro/issues/749) | bug、jax | closed | [content]() | NumPyro is breaking with JAX 0.2 |  | others | [Test]() |  24 Sep 2020 | committed on 26 Sep 2020 |
-| * 37 | [#759](https://github.com/pyro-ppl/numpyro/issues/759) | bug、jax | closed | [content]() | jax.tree_utils do not keep dict key order |  | others | [Test]() |  29 Sep 2020 | committed on 29 Sep 2020 |
+| * 28 | [#886](https://github.com/pyro-ppl/numpyro/issues/886) | bug、awaiting review | closed | [content]() | Make TransformReparam compatible with .to_event() |  | Compatibility issue | [Test]() |  24 Jan 2021 | committed on 24 Jan 2021 |
+| * 29 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable |  | others | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
+| * 30 | [#254](https://github.com/pyro-ppl/numpyro/issues/254) | bug | closed | [content]() | Usage of the scale effect handler? |  | others | [Test]() |  24 Jul 2019 | committed on 25 Jul 2019 |
+| * 31 | [#287](https://github.com/pyro-ppl/numpyro/issues/287) | bug | closed | [content]() | substitute logic in autoguide is inconsistence |  | others | [Test]() |  22 Aug 2019 | committed on 28 Aug 2019 |
+| * 32 | [#355](https://github.com/pyro-ppl/numpyro/issues/355) | bug | closed | [content]() | plate has unexpected behaviour when dist has batch_shape |  | others | [Test]() |  26 Sep 2019 | committed on 27 Sep 2019 |
+| * 33 | [#475](https://github.com/pyro-ppl/numpyro/issues/475) | bug、performance | closed | [content]() | Regression in fori_collect when progress bar disabled |  | others | [Test]() |  30 Nov 2019 | committed on 10 Dec 2019 |
+| * 34 | [#650](https://github.com/pyro-ppl/numpyro/issues/650) | bug | closed | [content]() | Indepedent distribution does not have enumerate_support implemented |  | others | [Test]() |  30 Jun 2020 | committed on 30 Jun 2020 |
+| * 35 | [#671](https://github.com/pyro-ppl/numpyro/issues/671) | bug | closed | [content]() | Cannot reshape the output of chained MCMC |  | others | [Test]() |  8 Jul 2020 | committed on 26 Jul 2020 |
+| * 36 | [#728](https://github.com/pyro-ppl/numpyro/issues/728) | bug、awaiting review | closed | [content]() | Fix init_strategy argument not respected in hmc and sa |  | others | [Test]() |  10 Sep 2020 | committed on 10 Sep 2020 |
+| * 37 | [#749](https://github.com/pyro-ppl/numpyro/issues/749) | bug、jax | closed | [content]() | NumPyro is breaking with JAX 0.2 |  | others | [Test]() |  24 Sep 2020 | committed on 26 Sep 2020 |
+| * 38 | [#759](https://github.com/pyro-ppl/numpyro/issues/759) | bug、jax | closed | [content]() | jax.tree_utils do not keep dict key order |  | others | [Test]() |  29 Sep 2020 | committed on 29 Sep 2020 |
 
 
 

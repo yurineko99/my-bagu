@@ -136,7 +136,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 30 | [#650](https://github.com/pyro-ppl/numpyro/issues/650) | bug | closed | [content]() | Indepedent distribution does not have enumerate_support implemented |  | others | [Test]() |  30 Jun 2020 | committed on 30 Jun 2020 |
 | * 31 | [#671](https://github.com/pyro-ppl/numpyro/issues/671) | bug | closed | [content]() | Cannot reshape the output of chained MCMC |  | others | [Test]() |  8 Jul 2020 | committed on 26 Jul 2020 |
 | * 32 | [#728](https://github.com/pyro-ppl/numpyro/issues/728) | bug、awaiting review | closed | [content]() | Fix init_strategy argument not respected in hmc and sa |  | others | [Test]() |  10 Sep 2020 | committed on 10 Sep 2020 |
-
+| * 33 | [#749](https://github.com/pyro-ppl/numpyro/issues/749) | bug、jax | closed | [content]() | NumPyro is breaking with JAX 0.2 |  | others | [Test]() |  24 Sep 2020 | committed on 26 Sep 2020 |
 
 
 

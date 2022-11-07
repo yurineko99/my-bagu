@@ -123,7 +123,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 17 | [#112](https://github.com/pyro-ppl/numpyro/issues/112) | bug | closed | [content]() | Some custom primitives does not work with the newest version of jax |  | version error | [Test]() |  17 Apr 2019 | committed on 3 May 2019 |
 | * 18 | [#216](https://github.com/pyro-ppl/numpyro/issues/216) | bug、performance | closed | [content]() | Timeseries model does not work with new version of lax.scan |  | version error | [Test]() |  21 Jun 2019 | committed on 15 Aug 2019 |
 | * 19 | [#169](https://github.com/pyro-ppl/numpyro/issues/169) | bug | closed | [content]() | tqdm hangs when set_postfix_str with refresh=True |  | hangup | [Test]() |  26 Apr 2019 | committed on 30 May 2019 |
-| * 20 | [#414](https://github.com/pyro-ppl/numpyro/issues/414) | bug。jax | closed | [content]() | vectorized elbo does not work with beta bernoulli model |  | Functional issue | [Test]() |  27 Oct 2019 | committed on 9 Jan 2020 |
+| * 20 | [#414](https://github.com/pyro-ppl/numpyro/issues/414) | bug、jax | closed | [content]() | vectorized elbo does not work with beta bernoulli model |  | Functional issue | [Test]() |  27 Oct 2019 | committed on 9 Jan 2020 |
 | * 21 | [#447](https://github.com/pyro-ppl/numpyro/issues/447) | bug。performance | closed | [content]() | NUTS with GPU (doesn't work for bnn.py) |  | memory leak | [Test]() |  17 Nov 2019 | committed on 15 Dec 2020 |
 | * 22 | [#489](https://github.com/pyro-ppl/numpyro/issues/489) | bug、awaiting review | closed | [content]() | Release patch for python 3.7 incompatibility |  | compatibility issue | [Test]() |  5 Dec 2019 | committed on 5 Dec 2020 |
 | * 23 | [#114](https://github.com/pyro-ppl/numpyro/issues/114) | bug | closed | [content]() | Make tscan jittable |  | others | [Test]() |  18 Apr 2019 | committed on 20 Apr 2019 |
@@ -132,6 +132,8 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 26 | [#355](https://github.com/pyro-ppl/numpyro/issues/355) | bug | closed | [content]() | plate has unexpected behaviour when dist has batch_shape |  | others | [Test]() |  26 Sep 2019 | committed on 27 Sep 2019 |
 | * 27 | [#475](https://github.com/pyro-ppl/numpyro/issues/475) | bug、performance | closed | [content]() | Regression in fori_collect when progress bar disabled |  | others | [Test]() |  30 Nov 2019 | committed on 10 Dec 2019 |
 | * 28 | [#650](https://github.com/pyro-ppl/numpyro/issues/650) | bug | closed | [content]() | Indepedent distribution does not have enumerate_support implemented |  | others | [Test]() |  30 Jun 2020 | committed on 30 Jun 2020 |
+| * 29 | [#671](https://github.com/pyro-ppl/numpyro/issues/671) | bug | closed | [content]() | Cannot reshape the output of chained MCMC |  | others | [Test]() |  8 Jul 2020 | committed on 26 Jul 2020 |
+
 
 
 

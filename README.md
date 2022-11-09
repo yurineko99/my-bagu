@@ -148,6 +148,6 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 42 | [#759](https://github.com/pyro-ppl/numpyro/issues/759) | bug、jax | closed | [content]() | jax.tree_utils do not keep dict key order |  | others | [Test]() |  29 Sep 2020 | committed on 29 Sep 2020 |
 | * 43 | [#907](https://github.com/pyro-ppl/numpyro/issues/907) | bug | closed | [content]() | UnexpectedTracerError with DiscreteHMCGibbs, a latent discrete variable with more than 1 dim, and num_chains>1 |  | others | [Test]() |  8 Feb 2021 | committed on 14 Feb 2021 |
 | * 44 | [#964](https://github.com/pyro-ppl/numpyro/issues/964) | bug | closed | [content]() | Test for collapse beta bernoulli is failing |  | others | [Test]() |  18 Mar 2021 | committed on 21 Mar 2021 |
-
+| * 45 | [#972](https://github.com/pyro-ppl/numpyro/issues/972) | bug | closed | [content]() | Fix a regression bug for ExpandedDistribution |  | others | [Test]() |  24 Mar 2021 | committed on 1 Jun 2021 |
 
 

@@ -155,3 +155,4 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 49 | [#983](https://github.com/pyro-ppl/numpyro/issues/983) | bug | closed | [content]() | dist.DirichletMultinomial can't handle zero_total count |  | others | [Test]() |  1 Apr 2021 | committed on 8 Apr 2021 |
 | * 50 | [#997](https://github.com/pyro-ppl/numpyro/issues/997) | bug | closed | [content]() | HMC fails to sample posterior properly while PyMC3 works fine |  | others | [Test]() |  7 Apr 2021 | committed on 14 Apr 2021 |
 | * 51 | [#1024](https://github.com/pyro-ppl/numpyro/issues/1024) | bug | closed | [content]() | Scan fails with empty PYRO_STACK |  | others | [Test]() |  26 Apr 2021 | committed on 28 Apr 2021 |
+| * 52 | [#1092](https://github.com/pyro-ppl/numpyro/issues/1092) | bug、high priority、usability | closed | [content]() | import numpyro error (version 0.7) |  | others | [Test]() |  12 Jul 2021 | committed on 12 Jul 2021 |

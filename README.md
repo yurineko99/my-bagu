@@ -109,6 +109,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 3 | [#241](https://github.com/pyro-ppl/numpyro/issues/241) | bug、enhancement | closed | [content]() | Handle dynamic support |  | Algorithmic/accuracy | [Test]() |  11 Jul 2019 | committed on 31 Jul 2019 |
 | * 4 | [#333](https://github.com/pyro-ppl/numpyro/issues/333) | bug | closed | [content]() | Problem with sample_shape |  | Algorithmic/accuracy | [Test]() |  11 Sep 2019 | committed on 12 Sep 2019 |
 | * 5 | [#307](https://github.com/pyro-ppl/numpyro/issues/307) | bug | closed | [content]() | Sequential chains in MCMC is broken |  | Algorithmic/accuracy | [Test]() |  29 Aug 2019 | committed on 29 Aug 2019 |
+| * 5 | [#1012](https://github.com/pyro-ppl/numpyro/issues/1012) | bug | closed | [content]() | Error using AutoDiagonalNormal with SVI + Predictive |  | Algorithmic/accuracy | [Test]() |  19 Apr 2021 | committed on 20 Apr 2021 |
 | * 6 | [#2](https://github.com/pyro-ppl/numpyro/issues/2) | bug | closed | [content]() | Enable jit compilation in minipyro |  | Dimension/boundary-value | [Test]() |  21 Feb 2019 | committed on 21 Feb 2019 |
 | * 7 | [#45](https://github.com/pyro-ppl/numpyro/issues/45) | bug | closed | [content]() | Disable generic args checking for discrete distributions |  | Dimension/boundary-value | [Test]() |  16 Mar 2019 | committed on 22 Mar 2019 |
 | * 8 | [#76](https://github.com/pyro-ppl/numpyro/issues/76) | bug | closed | [content]() | Discrete distribution does not respect initial seed |  | Dimension/boundary-value | [Test]() |  2 Apr 2019 | committed on 3 Apr 2019 |
@@ -150,4 +151,4 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 44 | [#964](https://github.com/pyro-ppl/numpyro/issues/964) | bug | closed | [content]() | Test for collapse beta bernoulli is failing |  | others | [Test]() |  18 Mar 2021 | committed on 21 Mar 2021 |
 | * 45 | [#972](https://github.com/pyro-ppl/numpyro/issues/972) | bug | closed | [content]() | Fix a regression bug for ExpandedDistribution |  | others | [Test]() |  24 Mar 2021 | committed on 1 Jun 2021 |
 | * 46 | [#983](https://github.com/pyro-ppl/numpyro/issues/983) | bug | closed | [content]() | dist.DirichletMultinomial can't handle zero_total count |  | others | [Test]() |  1 Apr 2021 | committed on 8 Apr 2021 |
-| * 47 | [#983](https://github.com/pyro-ppl/numpyro/issues/997) | bug | closed | [content]() | HMC fails to sample posterior properly while PyMC3 works fine |  | others | [Test]() |  7 Apr 2021 | committed on 14 Apr 2021 |
+| * 47 | [#997](https://github.com/pyro-ppl/numpyro/issues/997) | bug | closed | [content]() | HMC fails to sample posterior properly while PyMC3 works fine |  | others | [Test]() |  7 Apr 2021 | committed on 14 Apr 2021 |

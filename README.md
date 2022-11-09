@@ -143,6 +143,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 37 | [#728](https://github.com/pyro-ppl/numpyro/issues/728) | bug、awaiting review | closed | [content]() | Fix init_strategy argument not respected in hmc and sa |  | others | [Test]() |  10 Sep 2020 | committed on 10 Sep 2020 |
 | * 38 | [#749](https://github.com/pyro-ppl/numpyro/issues/749) | bug、jax | closed | [content]() | NumPyro is breaking with JAX 0.2 |  | others | [Test]() |  24 Sep 2020 | committed on 26 Sep 2020 |
 | * 39 | [#759](https://github.com/pyro-ppl/numpyro/issues/759) | bug、jax | closed | [content]() | jax.tree_utils do not keep dict key order |  | others | [Test]() |  29 Sep 2020 | committed on 29 Sep 2020 |
+| * 40 | [#907](https://github.com/pyro-ppl/numpyro/issues/907) | bug | closed | [content]() | UnexpectedTracerError with DiscreteHMCGibbs, a latent discrete variable with more than 1 dim, and num_chains>1 |  | others | [Test]() |  8 Feb 2021 | committed on 14 Feb 2021 |
 
 
 

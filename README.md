@@ -149,5 +149,5 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 43 | [#907](https://github.com/pyro-ppl/numpyro/issues/907) | bug | closed | [content]() | UnexpectedTracerError with DiscreteHMCGibbs, a latent discrete variable with more than 1 dim, and num_chains>1 |  | others | [Test]() |  8 Feb 2021 | committed on 14 Feb 2021 |
 | * 44 | [#964](https://github.com/pyro-ppl/numpyro/issues/964) | bug | closed | [content]() | Test for collapse beta bernoulli is failing |  | others | [Test]() |  18 Mar 2021 | committed on 21 Mar 2021 |
 | * 45 | [#972](https://github.com/pyro-ppl/numpyro/issues/972) | bug | closed | [content]() | Fix a regression bug for ExpandedDistribution |  | others | [Test]() |  24 Mar 2021 | committed on 1 Jun 2021 |
-
+| * 46 | [#983](https://github.com/pyro-ppl/numpyro/issues/983) | bug | closed | [content]() | dist.DirichletMultinomial can't handle zero_total count |  | others | [Test]() |  1 Apr 2021 | committed on 8 Apr 2021 |
 

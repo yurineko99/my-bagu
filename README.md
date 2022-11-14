@@ -157,3 +157,4 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 51 | [#997](https://github.com/pyro-ppl/numpyro/issues/997) | bug | closed | [content]() | HMC fails to sample posterior properly while PyMC3 works fine |  | others | [Test]() |  7 Apr 2021 | committed on 14 Apr 2021 |
 | * 52 | [#1024](https://github.com/pyro-ppl/numpyro/issues/1024) | bug | closed | [content]() | Scan fails with empty PYRO_STACK |  | others | [Test]() |  26 Apr 2021 | committed on 28 Apr 2021 |
 | * 53 | [#1092](https://github.com/pyro-ppl/numpyro/issues/1092) | bug、high priority、usability | closed | [content]() | import numpyro error (version 0.7) |  | others | [Test]() |  12 Jul 2021 | committed on 12 Jul 2021 |
+| * 54 | [#1176](https://github.com/pyro-ppl/numpyro/issues/1176) | bug | closed | [content]() | Scope handler doesn't add prefix to cond_indep_stack frames |  | others | [Test]() |  8 Oct 2021 | committed on 9 Oct 2021 |

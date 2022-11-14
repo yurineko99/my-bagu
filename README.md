@@ -159,3 +159,4 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 53 | [#1024](https://github.com/pyro-ppl/numpyro/issues/1024) | bug | closed | [content]() | Scan fails with empty PYRO_STACK |  | others | [Test]() |  26 Apr 2021 | committed on 28 Apr 2021 |
 | * 54 | [#1092](https://github.com/pyro-ppl/numpyro/issues/1092) | bug、high priority、usability | closed | [content]() | import numpyro error (version 0.7) |  | others | [Test]() |  12 Jul 2021 | committed on 12 Jul 2021 |
 | * 55 | [#1176](https://github.com/pyro-ppl/numpyro/issues/1176) | bug | closed | [content]() | Scope handler doesn't add prefix to cond_indep_stack frames |  | others | [Test]() |  8 Oct 2021 | committed on 9 Oct 2021 |
+| * 56 | [#1231](https://github.com/pyro-ppl/numpyro/issues/1231) | bug | closed | [content]() | TFP distributions |  | others | [Test]() |  20 Nov 2021 | committed on 27 Nov 2021 |

@@ -164,3 +164,4 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 58 | [#1176](https://github.com/pyro-ppl/numpyro/issues/1176) | bug | closed | [content]() | Scope handler doesn't add prefix to cond_indep_stack frames |  | others | [Test]() |  8 Oct 2021 | committed on 9 Oct 2021 |
 | * 59 | [#1231](https://github.com/pyro-ppl/numpyro/issues/1231) | bug、help wanted | closed | [content]() | TFP distributions |  | others | [Test]() |  20 Nov 2021 | committed on 27 Nov 2021 |
 | * 60 | [#1296](https://github.com/pyro-ppl/numpyro/issues/1296) | bug | closed | [content]() | Sparse Poisson different log_prob values depending on type |  | others | [Test]() |  21 Jan 2022 | committed on 23 Jan 2022 |
+| * 61 | [#1328](https://github.com/pyro-ppl/numpyro/issues/1328) | bug | closed | [content]() | Vectorized sampling: error when var size is 0 |  | others | [Test]() |  9 Feb 2022 | committed on 10 Feb 2022 |

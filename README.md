@@ -172,3 +172,4 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 66 | [#1328](https://github.com/pyro-ppl/numpyro/issues/1328) | bug | closed | [content]() | Vectorized sampling: error when var size is 0 |  | others | [Test]() |  9 Feb 2022 | committed on 10 Feb 2022 |
 | * 67 | [#1433](https://github.com/pyro-ppl/numpyro/issues/1433) | bug | closed | [content]() | A bug in AutoMultivariateNormal guide |  | others | [Test]() |  20 Jun 2022 | committed on 22 Jun 2022 |
 | * 68 | [#1438](https://github.com/pyro-ppl/numpyro/issues/1438) | bug | closed | [content]() | issues when numpyro.enable_validation(is_validate=True) |  | others | [Test]() |  22 Jun 2022 | committed on 25 Jun 2022 |
+| * 69 | [#1442](https://github.com/pyro-ppl/numpyro/issues/1442) | bug | closed | [content]() | A bug in the way enumeration handles batch dimensions |  | others | [Test]() |  26 Jun 2022 | committed on 2 Jul 2022 |

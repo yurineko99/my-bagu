@@ -171,3 +171,4 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 65 | [#1296](https://github.com/pyro-ppl/numpyro/issues/1296) | bug | closed | [content]() | Sparse Poisson different log_prob values depending on type |  | others | [Test]() |  21 Jan 2022 | committed on 23 Jan 2022 |
 | * 66 | [#1328](https://github.com/pyro-ppl/numpyro/issues/1328) | bug | closed | [content]() | Vectorized sampling: error when var size is 0 |  | others | [Test]() |  9 Feb 2022 | committed on 10 Feb 2022 |
 | * 67 | [#1433](https://github.com/pyro-ppl/numpyro/issues/1433) | bug | closed | [content]() | A bug in AutoMultivariateNormal guide |  | others | [Test]() |  20 Jun 2022 | committed on 22 Jun 2022 |
+| * 68 | [#1438](https://github.com/pyro-ppl/numpyro/issues/1438) | bug | closed | [content]() | issues when numpyro.enable_validation(is_validate=True) |  | others | [Test]() |  22 Jun 2022 | committed on 25 Jun 2022 |

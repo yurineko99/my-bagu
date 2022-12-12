@@ -179,4 +179,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 cornellius-gp/gpytorch
 https://github.com/cornellius-gp/gpytorch/issues
 バグ数　335
+| Bug Id | Issue  | label |  Modify | Status | Type |Issue Registered | Issue Resolved |
+| --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#60](https://github.com/cornellius-gp/gpytorch/issues/60) | bug | closed | [bug fix]() | gradients didn't backward to the end |  | others | [Test]() |  16 Jan 2018 | committed on 28 Jan 2018 |
+| * 2 | [#61](https://github.com/cornellius-gp/gpytorch/issues/61) | bug | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/commit/34af54a7ce4849778d548fc0782da81449c50c3c) | Interpolation expects things to be floats |  | others | [Test]() |  18 Jan 2018 | committed on 16 Feb 2018 |

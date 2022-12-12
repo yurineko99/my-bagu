@@ -175,3 +175,8 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 69 | [#1438](https://github.com/pyro-ppl/numpyro/issues/1438) | bug | closed | [content]() | issues when numpyro.enable_validation(is_validate=True) |  | others | [Test]() |  22 Jun 2022 | committed on 25 Jun 2022 |
 | * 70 | [#1442](https://github.com/pyro-ppl/numpyro/issues/1442) | bug | closed | [content]() | A bug in the way enumeration handles batch dimensions |  | others | [Test]() |  26 Jun 2022 | committed on 2 Jul 2022 |
 | * 71 | [#1455](https://github.com/pyro-ppl/numpyro/issues/1455) | bug | closed | [bug fix](https://github.com/pyro-ppl/numpyro/pull/1464/files) | Example Docker Image fails to build |  | others | [Test]() |  22 Jul 2022 | committed on 7 Aug 2022 |
+
+cornellius-gp/gpytorch
+https://github.com/cornellius-gp/gpytorch/issues
+バグ数　335
+| * 1 | [#60](https://github.com/cornellius-gp/gpytorch/issues/60) | bug | closed | [bug fix]() | gradients didn't backward to the end |  | others | [Test]() |  16 Jan 2018 | committed on 28 Jan 2018 |

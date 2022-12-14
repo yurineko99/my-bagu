@@ -21,7 +21,7 @@
 **Issue Registered**: Time the bug was raised  
 
 **Issue Resolved**: Time the bug was resovled  
-
+Pyro-ppl/pyro
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [content]() | MCMC cannot jit_compile for a simple logistic regression model |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |

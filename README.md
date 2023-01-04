@@ -174,7 +174,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 | * 69 | [#1438](https://github.com/pyro-ppl/numpyro/issues/1438) | bug | closed | [content]() | issues when numpyro.enable_validation(is_validate=True) |  | others | [Test]() |  22 Jun 2022 | committed on 25 Jun 2022 |
 | * 70 | [#1442](https://github.com/pyro-ppl/numpyro/issues/1442) | bug | closed | [content]() | A bug in the way enumeration handles batch dimensions |  | others | [Test]() |  26 Jun 2022 | committed on 2 Jul 2022 |
 | * 71 | [#1455](https://github.com/pyro-ppl/numpyro/issues/1455) | bug | closed | [bug fix](https://github.com/pyro-ppl/numpyro/pull/1464/files) | Example Docker Image fails to build |  | others | [Test]() |  22 Jul 2022 | committed on 7 Aug 2022 |
-| * 71 | [#307](https://github.com/pyro-ppl/numpyro/issues/307) | bug | closed | [bug fix]() | Sequential chains in MCMC is broken |  | Algorithmic/accuracy | [Test]() |  29 Aug 2019 | committed on 29 Aug 2019 |
+| * 72 | [#307](https://github.com/pyro-ppl/numpyro/issues/307) | bug | closed | [bug fix]() | Sequential chains in MCMC is broken |  | othors | [Test]() |  29 Aug 2019 | committed on 29 Aug 2019 |
 
 cornellius-gp/gpytorch
 https://github.com/cornellius-gp/gpytorch/issues

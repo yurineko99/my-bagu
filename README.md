@@ -88,17 +88,17 @@ https://github.com/jdb78/pytorch-forecasting
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#403](https://github.com/jdb78/pytorch-forecasting/issues/403) | bug | closed | [fix bug](https://github.com/jdb78/pytorch-forecasting/pull/404/files) | DeepAR Example fails on predict(): AttributeError: 'NoneType' object has no attribute 'device' |  | algorithmic/accuracy | [Test]() |  18 Mar 2021 | committed on 19 Mar 2021 |
-| * 2 | [#159](https://github.com/jdb78/pytorch-forecasting/issues/159) | bug | closed | [content]() | warnings.warn Type error: expected string or bytes-like object |  | Dimension/boundary-value | [Test]() |  18 Nov 2020 | committed on 21 Nov 2020 |
-| * 3 | [#240](https://github.com/jdb78/pytorch-forecasting/issues/240) | bug | closed | [content]() | Type Error |  | General numerial | [Test]() |  5 Jan 2021 | committed on 7 Jan 2021 |
-| * 4 | [#49](https://github.com/jdb78/pytorch-forecasting/issues/49) | bug、dependencies| closed | [content]() | Error saving checkpoint |  | Language/translation | [Test]() |  20 Sep 2020 | committed on 24 Sep 2020 |
-| * 5 | [#79](https://github.com/jdb78/pytorch-forecasting/issues/79) | bug、enhancement　| closed | [content]() | Issues running TDS Stallion Example with W&B logger |  | Language/translation | [Test]() |  6 Oct 2020 | committed on 5 Nov 2020 |
-| * 6 | [#114](https://github.com/jdb78/pytorch-forecasting/issues/114) | bug | closed | [content]() | 'TimeSeriesDataSet' object has no attribute 'args'  |  | Language/translation | [Test]() |  20 Oct 2020 | committed on 20 Oct 2020 |
-| * 7 | [#135](https://github.com/jdb78/pytorch-forecasting/issues/135) | bug | closed | [content]() | Error passing CUDA tensor to nn.utils.rnn.pack_padded_sequence |  | Language/translation | [Test]() |  1 Nov 2020 | committed on 26 Jan 2021 |
-| * 8 | [#365](https://github.com/jdb78/pytorch-forecasting/issues/365) | bug | closed | [content]() | Trying to predict on GPU. RuntimeError: All input tensors must be on the same device. Received cuda:0 and cpu |  | Language/translation | [Test]() |  24 Feb 2021 | committed on 18 Mar 2021 |
-| * 9 | [#85](https://github.com/jdb78/pytorch-forecasting/issues/85) | bug、help wanted | closed | [content]() | Tensor Dimension Error When Applying TFT to Multiple Groups in Own Data |  | others | [Test]() |  8 Oct 2020 | committed on 7 Sep 2021 |
-| * 10 | [#182](https://github.com/jdb78/pytorch-forecasting/issues/182) | bug | closed | [content]() | Is there leakage? |  | other | [Test]() |  1 Dec 2020 | committed on 2 Dec 2020 |
-| * 11 | [#122](https://github.com/jdb78/pytorch-forecasting/issues/122) | bug、enhancement、help wanted | closed | [content]() | Categorical encoding bug |  | other | [Test]() |  22 Oct 2020 | committed on 30 Nov 2020 |
-| * 12 | [#131](https://github.com/jdb78/pytorch-forecasting/issues/131) | bug | closed | [content]() | Bug .get_parameters() |  | Dimension/boundary-value | [Test]() |  31 Oct 2020 | committed on 31 Oct 2020 |
+| * 2 | [#240](https://github.com/jdb78/pytorch-forecasting/issues/240) | bug | closed | [content]() | Type Error |  | General numerial | [Test]() |  5 Jan 2021 | committed on 7 Jan 2021 |
+| * 3 | [#49](https://github.com/jdb78/pytorch-forecasting/issues/49) | bug、dependencies| closed | [content]() | Error saving checkpoint |  | Language/translation | [Test]() |  20 Sep 2020 | committed on 24 Sep 2020 |
+| * 4 | [#79](https://github.com/jdb78/pytorch-forecasting/issues/79) | bug、enhancement　| closed | [content]() | Issues running TDS Stallion Example with W&B logger |  | Language/translation | [Test]() |  6 Oct 2020 | committed on 5 Nov 2020 |
+| * 5 | [#114](https://github.com/jdb78/pytorch-forecasting/issues/114) | bug | closed | [content]() | 'TimeSeriesDataSet' object has no attribute 'args'  |  | Language/translation | [Test]() |  20 Oct 2020 | committed on 20 Oct 2020 |
+| * 6 | [#135](https://github.com/jdb78/pytorch-forecasting/issues/135) | bug | closed | [content]() | Error passing CUDA tensor to nn.utils.rnn.pack_padded_sequence |  | Language/translation | [Test]() |  1 Nov 2020 | committed on 26 Jan 2021 |
+| * 7 | [#365](https://github.com/jdb78/pytorch-forecasting/issues/365) | bug | closed | [content]() | Trying to predict on GPU. RuntimeError: All input tensors must be on the same device. Received cuda:0 and cpu |  | Language/translation | [Test]() |  24 Feb 2021 | committed on 18 Mar 2021 |
+| * 8 | [#85](https://github.com/jdb78/pytorch-forecasting/issues/85) | bug、help wanted | closed | [content]() | Tensor Dimension Error When Applying TFT to Multiple Groups in Own Data |  | others | [Test]() |  8 Oct 2020 | committed on 7 Sep 2021 |
+| * 9 | [#182](https://github.com/jdb78/pytorch-forecasting/issues/182) | bug | closed | [content]() | Is there leakage? |  | other | [Test]() |  1 Dec 2020 | committed on 2 Dec 2020 |
+| * 10 | [#122](https://github.com/jdb78/pytorch-forecasting/issues/122) | bug、enhancement、help wanted | closed | [content]() | Categorical encoding bug |  | other | [Test]() |  22 Oct 2020 | committed on 30 Nov 2020 |
+| * 11 | [#131](https://github.com/jdb78/pytorch-forecasting/issues/131) | bug | closed | [content]() | Bug .get_parameters() |  | Dimension/boundary-value | [Test]() |  31 Oct 2020 | committed on 31 Oct 2020 |
+| * 12 | [#159](https://github.com/jdb78/pytorch-forecasting/issues/159) | bug | closed | [content]() | warnings.warn Type error: expected string or bytes-like object |  | Dimension/boundary-value | [Test]() |  18 Nov 2020 | committed on 21 Nov 2020 |
 パイロppl/numpyro
 URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 発行終了 77

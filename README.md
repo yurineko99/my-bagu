@@ -182,8 +182,7 @@ https://github.com/cornellius-gp/gpytorch/issues
 | Bug Id | Issue  | label |  Modify | Status | Type |Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#271](https://github.com/cornellius-gp/gpytorch/issues/271) | bug | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/277/files) | Lapack Error in TestSimpleGPRegression |  |Algorithmic/accuracy bugs | [Test]() |  18 Sep 2018 | committed on 20 Sep 2018 |
-| * 2 | [#398](https://github.com/cornellius-gp/gpytorch/issues/398) | bug | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/400/files) | Size mismatch in batch mode GaussianLikelihood |  | 
-Algorithmic/accuracy bugs | [Test]() |  27 Nov 2018 | committed on 30 Nov 2018 |
+| * 2 | [#398](https://github.com/cornellius-gp/gpytorch/issues/398) | bug | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/400/files) | Size mismatch in batch mode GaussianLikelihood |  |Algorithmic/accuracy bugs | [Test]() |  27 Nov 2018 | committed on 30 Nov 2018 |
 | * 3 | [#134](https://github.com/cornellius-gp/gpytorch/issues/134) | bug | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/158) | GPyTorch should handle batched predictions for independent GPs  |  | Dimension/boundary-value | [Test]() |  12 May 2018 | committed on 12 Jun 2018 |
 | * 4 | [#215](https://github.com/cornellius-gp/gpytorch/issues/215) | bug、high priority | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/216/files) | KronckerProductLazyVariable only works for square and symmetric matrices |  | Dimension/boundary-value | [Test]() |  4 Aug 2018 | committed on 5 Aug 2018 |
 | * 5 | [#237](https://github.com/cornellius-gp/gpytorch/issues/237) | bug | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/241/files) | Batch predictions fail on master |  | Dimension/boundary-value | [Test]() |  18 Aug 2018 | committed on 29 Aug 2018 |

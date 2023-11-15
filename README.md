@@ -179,7 +179,7 @@ cornellius-gp/gpytorch
 https://github.com/cornellius-gp/gpytorch/issues
 バグ数　335
 | Bug Id | Issue  | label |  Modify | Status | Type | Type |Issue Registered | Issue Resolved |
-| --- | --- | --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#398](https://github.com/cornellius-gp/gpytorch/issues/398) | bug | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/400/files) | Size mismatch in batch mode GaussianLikelihood |  Algorithmic/accuracy bugs | 27 Nov 2018 | committed on 30 Nov 2018 |
 | * 2 | [#537](https://github.com/cornellius-gp/gpytorch/issues/537) | bug | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/538/files) | Inconsistent representation of MultitaskMultivariateNormal covariance |  | Algorithmic/accuracy | [Test]() |  26 Feb 2019 | committed on 31 Feb 2019 |
 | * 3 | [#548](https://github.com/cornellius-gp/gpytorch/issues/548) | bug、good first issue | closed | [bug fix](https://github.com/cornellius-gp/gpytorch/pull/574) | Error when using fast_pred_var with only 1 training input |  | Algorithmic/accuracy | [Test]() |  5 Mar 2019 | committed on 17 Mar 2019 |

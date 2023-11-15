@@ -102,7 +102,7 @@ https://github.com/jdb78/pytorch-forecasting
 パイロppl/numpyro
 URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 発行終了 77
-| No. | Issue No. | label | Status | bug fixed | title | category | Issue Registered | Issue Resolved | Issue Resolved |
+| No. | Issue No. | label | Status | bug fixed | title | category | Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#241](https://github.com/pyro-ppl/numpyro/issues/241) | bug、enhancement | closed | [#268](https://github.com/pyro-ppl/numpyro/pull/268/files) | Handle dynamic support | Algorithmic/accuracy |  11 Jul 2019 | committed on 31 Jul 2019 |
 | * 2 | [#249](https://github.com/pyro-ppl/numpyro/issues/249) | bug | closed | [250](https://github.com/pyro-ppl/numpyro/pull/250/files) | HMC adaptation stuck at warmup phase due to step_size -> nan | Algorithmic/accuracy | 18 Jul 2019 | committed on 18 Jul 2019 |

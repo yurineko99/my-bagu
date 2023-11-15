@@ -99,6 +99,7 @@ https://github.com/jdb78/pytorch-forecasting
 | * 10 | [#159](https://github.com/jdb78/pytorch-forecasting/issues/159) | bug | closed | [fix bug]() | warnings.warn Type error: expected string or bytes-like object |  | other | [Test]() |  
 | * 11 | [#240](https://github.com/jdb78/pytorch-forecasting/issues/240) | bug | closed | [fix bug]() | Type Error |  | other | [Test]() |  5 Jan 2021 | committed on 7 Jan 2021 |18 Nov 2020 | committed on 21 Nov 2020 |
 | * 12 | [#403](https://github.com/jdb78/pytorch-forecasting/issues/403) | bug | closed | [fix bug](https://github.com/jdb78/pytorch-forecasting/pull/404/files) | DeepAR Example fails on predict(): AttributeError: 'NoneType' object has no attribute 'device' |  | other | [Test]() |  18 Mar 2021 | committed on 19 Mar 2021 |
+
 パイロppl/numpyro
 URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 発行終了 77

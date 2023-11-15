@@ -104,7 +104,7 @@ URL https://github.com/pyro-ppl/numpyro/issues?q=label%3Abug+is%3Aclosed
 発行終了 77
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| * 1 | [#241](https://github.com/pyro-ppl/numpyro/issues/241) | bug、enhancement | closed | [bug fix](https://github.com/pyro-ppl/numpyro/pull/268/files) | Handle dynamic support |  | Algorithmic/accuracy | [Test]() |  11 Jul 2019 | committed on 31 Jul 2019 |
+| * 1 | [#241](https://github.com/pyro-ppl/numpyro/issues/241) | bug、enhancement | closed | [#268](https://github.com/pyro-ppl/numpyro/pull/268/files) | Handle dynamic support |  | Algorithmic/accuracy | [Test]() |  11 Jul 2019 | committed on 31 Jul 2019 |
 | * 2 | [#249](https://github.com/pyro-ppl/numpyro/issues/249) | bug | closed | [bug fix](https://github.com/pyro-ppl/numpyro/pull/250/files) | HMC adaptation stuck at warmup phase due to step_size -> nan |  | Algorithmic/accuracy | [Test]() |  18 Jul 2019 | committed on 18 Jul 2019 |
 | * 3 | [#1012](https://github.com/pyro-ppl/numpyro/issues/1012) | bug | closed | [bug fix](https://github.com/pyro-ppl/numpyro/pull/1013/files) | Error using AutoDiagonalNormal with SVI + Predictive |  | Algorithmic/accuracy | [Test]() |  19 Apr 2021 | committed on 20 Apr 2021 |
 | * 4 | [#1015](https://github.com/pyro-ppl/numpyro/issues/1015) | bug | closed | [bug fix](https://github.com/pyro-ppl/numpyro/pull/1019/files) | Initialization issues when using mask/latent variables |  | Algorithmic/accuracy | [Test]() |  21 Apr 2021 | committed on 23 Apr 2021 |

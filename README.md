@@ -25,9 +25,9 @@ Pyro-ppl/pyro
 | Bug Id | Issue  | label |  Modify | Status | Type |Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [bug fix]() | MCMC cannot jit_compile for a simple logistic regression model |  | algorithm/accuracy | [Test]() |  4 Dec 2019 | committed on 14 Dec 2019 |
-| * 2 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [bug fix]() | Student T tests fail on GPU [bug] | | algorithm/accuracy | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
+| * 2 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [bug fix](https://github.com/pyro-ppl/pyro/pull/2228/files) | Student T tests fail on GPU [bug] | | algorithm/accuracy | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
 | * 3 | [#2272](https://github.com/pyro-ppl/pyro/issues/2272) | bug、high priority | closed | [bug fix]() | [bug] MCMC run throws exception when using num_chains>1 as of Pyro 1.2.0. | | algorithm/accuracy | [Test]() |  21 Jan 2020 | committed on 22 Jan 2020 |
-| * 4 | [#2627](https://github.com/pyro-ppl/pyro/issues/2627) | bug | closed | [content]() | Problem in HMC/NUTS with custom potential_fn  | | algorithm/accuracy | [Test]() |  16 Sep 2020 | committed on 21 Sep 2020 |
+| * 4 | [#2627](https://github.com/pyro-ppl/pyro/issues/2627) | bug | closed | [bug fix]() | Problem in HMC/NUTS with custom potential_fn  | | algorithm/accuracy | [Test]() |  16 Sep 2020 | committed on 21 Sep 2020 |
 | * 5 | [#2726](https://github.com/pyro-ppl/pyro/pull/2726) | bug、Pending review| closed | [content]() | Make replay work correctly with vectorized_markov | | algorithm/accuracy | [Test]() |  29 Dec 2020 | committed on 21 Sep 2020 |
 | * 6 | [#2091](https://github.com/pyro-ppl/pyro/issues/2091) | bug | closed | [content]() | Progressbar Bug with tqdm v4.36.1 and Pyro v0.4.1 leading to exception, displaying progress for multiple chains | | dimension/boundary | [Test]() |  24 Oct 2019 | committed on 24 Oct 2019 |
 | * 7 | [#2122](https://github.com/pyro-ppl/pyro/issues/2122) | bug | closed | [content]() | Predictive class fails for non-scalar sites | | dimension/boundary | [Test]() |  6 Nov 2019 | committed on 7 Nov 2019 |

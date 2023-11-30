@@ -25,8 +25,9 @@ Pyro-ppl/pyro
 | No. | Issue No.  | label |  Status | bug fix | Type |Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | * 1 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [bug fix]() | MCMC cannot jit_compile for a simple logistic regression model | algorithm/accuracy | 4 Dec 2019 | committed on 14 Dec 2019 |
-| * 2 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [bug fix](https://github.com/pyro-ppl/pyro/pull/2228/files) | Student T tests fail on GPU [bug] | | algorithm/accuracy | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
+| * 2 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [#2228](https://github.com/pyro-ppl/pyro/pull/2228/files) | Student T tests fail on GPU [bug] | | algorithm/accuracy | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
 | * 3 | [#2272](https://github.com/pyro-ppl/pyro/issues/2272) | bug、high priority | closed | [bug fix]() | [bug] MCMC run throws exception when using num_chains>1 as of Pyro 1.2.0. | | algorithm/accuracy | [Test]() |  21 Jan 2020 | committed on 22 Jan 2020 |
+| * 29 | [#2627](https://github.com/pyro-ppl/pyro/issues/2627) | bug | closed | [bug fix]() | Problem in HMC/NUTS with custom potential_fn  | | algorithm/accuracy | [Test]() |  16 Sep 2020 | committed on 21 Sep 2020 |
 | * 4 | [#2726](https://github.com/pyro-ppl/pyro/pull/2726) | bug、Pending review| closed | [content]() | Make replay work correctly with vectorized_markov | | algorithm/accuracy | [Test]() |  29 Dec 2020 | committed on 21 Sep 2020 |
 | * 5 | [#2091](https://github.com/pyro-ppl/pyro/issues/2091) | bug | closed | [content]() | Progressbar Bug with tqdm v4.36.1 and Pyro v0.4.1 leading to exception, displaying progress for multiple chains | | dimension/boundary | [Test]() |  24 Oct 2019 | committed on 24 Oct 2019 |
 | * 6 | [#2122](https://github.com/pyro-ppl/pyro/issues/2122) | bug | closed | [content]() | Predictive class fails for non-scalar sites | | dimension/boundary | [Test]() |  6 Nov 2019 | committed on 7 Nov 2019 |
@@ -52,7 +53,7 @@ Pyro-ppl/pyro
 | * 26 | [#2223](https://github.com/pyro-ppl/pyro/issues/2223) | bug | closed | [bug fix]() | Undocumented restrictions on discrete inference? | | other | [Test]() |  12 Dec 2019 | committed on 23 Dec 2019 |
 | * 27 | [#2317](https://github.com/pyro-ppl/pyro/issues/2317) | bug、enhancement | closed | [bug fix]() | NeuTraReparam does not work as supposed: AssertionError thrown | | other | [Test]() |  20 Feb 2020 | committed on 5 Mar 2020 |
 | * 28 | [#2608](https://github.com/pyro-ppl/pyro/issues/2608) | bug、documentation | closed | [content]() | Pyro docs no longer show up on Google | | other | [Test]() |  20 Aug 2020 | committed on 20 Aug 2020 |
-| * 29 | [#2627](https://github.com/pyro-ppl/pyro/issues/2627) | bug | closed | [bug fix]() | Problem in HMC/NUTS with custom potential_fn  | | other | [Test]() |  16 Sep 2020 | committed on 21 Sep 2020 |
+| * 29 | [#2726](https://github.com/pyro-ppl/pyro/pull/2726) | bug、Pending review| closed | [content]() | Make replay work correctly with vectorized_markov | | other | [Test]() |  29 Dec 2020 | committed on 21 Sep 2020 |
 | * 30 | [#2688](https://github.com/pyro-ppl/pyro/issues/2688) | bug、documentation | closed | [content]() | [Doc] Inconsistent of param signature between AutoIAFNormal and affine_autoregressive | | other | [Test]() |  4 Nov 2020 | committed on 6 Nov 2020 |
 | * 31 | [#2792](https://github.com/pyro-ppl/pyro/pull/2792) | bug | closed | [content]() | assert in JitTraceMeanField_ELBO throws TracerWarning | | other | [Test]() |  4 Apr 2021 | committed on 6 Apr 2021 |
 | * 32 | [#3014](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | Memory leak using TraceEnum_ELBO | [Test]() |  18 Feb 2022 | committed on 30 Aug 2022 |

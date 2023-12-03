@@ -24,7 +24,7 @@
 Pyro-ppl/pyro
 | No. | Issue No.  | label |  Status | bug fix | Type |Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| * 1 | [#253](https://github.com/pyro-ppl/pyro/issues/253) | bug | closed |  Incorrect batching in Categorical.sample(one_hot=False) | algorithm/accuracy |   13 Oct 2017 | committed on 19 Oct 2017 |
+| * 1 | [#253](https://github.com/pyro-ppl/pyro/issues/253) | bug | closed | [#260](https://github.com/pyro-ppl/pyro/pull/260/files) | Incorrect batching in Categorical.sample(one_hot=False) | algorithm/accuracy |   13 Oct 2017 | committed on 19 Oct 2017 |
 | * 2 | [#2205](https://github.com/pyro-ppl/pyro/issues/2205) | bug | closed | [bug fix]() | MCMC cannot jit_compile for a simple logistic regression model | algorithm/accuracy | 4 Dec 2019 | committed on 14 Dec 2019 |
 | * 3 | [#2227](https://github.com/pyro-ppl/pyro/issues/2227) | bug | closed | [#2228](https://github.com/pyro-ppl/pyro/pull/2228/files) | Student T tests fail on GPU [bug] | algorithm/accuracy | [Test]() |  19 Dec 2019 | committed on 19 Dec 2019 |
 | * 4 | [#2272](https://github.com/pyro-ppl/pyro/issues/2272) | bug、high priority | closed | [#2266](https://github.com/pyro-ppl/pyro/pull/2266/files) | [bug] MCMC run throws exception when using num_chains>1 as of Pyro 1.2.0. | algorithm/accuracy | [Test]() |  21 Jan 2020 | committed on 22 Jan 2020 |

@@ -76,13 +76,14 @@ Pyro-ppl/pyro
 | * 50 | [#3046](https://github.com/pyro-ppl/pyro/issues/3046) | bug | closed | ome pyro.contrib.funsor tests are failing in torch==1.11.0  | version issue |   2 Mar 2022 | committed on 18 Mar 2022 |
 | * 51 | [#3068](https://github.com/pyro-ppl/pyro/issues/3068) | bug | closed | [content]() | Memory leak using TraceEnum_ELBO | | memory leak | [Test]() |  14 Apr 2022 | committed on 30 Aug 2022 |
 | * 52 | [#3100](https://github.com/pyro-ppl/pyro/issues/3100) | bug、duplicate、question | closed |  Excessive RAM consumption when coding mean field VI for LDA | other |   2 Jun 2022 | committed on 4 Jun 2022 |
+
 jdb78/pytorch-予測
 https://github.com/jdb78/pytorch-forecasting
 発行終了 29
 | Bug Id | Issue No | label | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#79](https://github.com/jdb78/pytorch-forecasting/issues/79) | bug、enhancement　| closed | [#82](https://github.com/jdb78/pytorch-forecasting/pull/82/files) | Issues running TDS Stallion Example with W&B logger | Language/translation | 6 Oct 2020 | committed on 5 Nov 2020 |
-| * 2 | [#114](https://github.com/jdb78/pytorch-forecasting/issues/114) | bug | closed | [content]() | 'TimeSeriesDataSet' object has no attribute 'args'  |  | Language/translation | [Test]() |  20 Oct 2020 | committed on 20 Oct 2020 |
+| * 2 | [#114](https://github.com/jdb78/pytorch-forecasting/issues/114) | bug | closed | [#117](https://github.com/jdb78/pytorch-forecasting/pull/117/files) | 'TimeSeriesDataSet' object has no attribute 'args' |  Language/translation | 20 Oct 2020 | committed on 20 Oct 2020 |
 | * 3〇 | [#135](https://github.com/jdb78/pytorch-forecasting/issues/135) | bug | closed | [content]() | Error passing CUDA tensor to nn.utils.rnn.pack_padded_sequence |  | Language/translation | [Test]() |  1 Nov 2020 | committed on 26 Jan 2021 |
 | * 4 | [#365](https://github.com/jdb78/pytorch-forecasting/issues/365) | bug | closed | [content]() | Trying to predict on GPU. RuntimeError: All input tensors must be on the same device. Received cuda:0 and cpu |  | Language/translation | [Test]() |  24 Feb 2021 | committed on 18 Mar 2021 |
 | * 5 | [#49](https://github.com/jdb78/pytorch-forecasting/issues/49) | bug、dependencies| closed | [content]() | Error saving checkpoint |  | other | [Test]() |  20 Sep 2020 | committed on 24 Sep 2020 |
